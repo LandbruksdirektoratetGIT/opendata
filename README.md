@@ -104,3 +104,5 @@ Dersom ein opprettar nye datasett som ikkje tidlegare har ligge på Datahotellet
 ## Vidare
 - Oppskrift for registrering på data.norge.no
 - Skriv om til å generere meta.csv og endre generering av README til å hente frå meta.csv. Formålet er å gjere det lettare å oppdatere datasett ved å sleppe å forhalde seg til XML-formatet.
+=======
+# datahotell
