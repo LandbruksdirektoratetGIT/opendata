@@ -19,5 +19,3 @@ Henta frå fields.csv
 | gardsnr | Gardsnummer |  |
 | bruksnr | Bruksnr |  |
 | festenr | Festenr |  |
-| produsentnummer_8 | Produsentnr 8 siffer |  |
-| produsentnummer_10 | Produsentnr 10 siffer |  |
