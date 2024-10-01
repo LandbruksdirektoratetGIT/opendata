@@ -36,19 +36,5 @@
             <searchable>true</searchable>
             <indexPrimaryKey>false</indexPrimaryKey>
         </field>
-        <field>
-            <name>Produsentnr 8 siffer</name>
-            <shortName>produsentnummer_8</shortName>
-            <groupable>false</groupable>
-            <searchable>true</searchable>
-            <indexPrimaryKey>false</indexPrimaryKey>
-        </field>
-        <field>
-            <name>Produsentnr 10 siffer</name>
-            <shortName>produsentnummer_10</shortName>
-            <groupable>false</groupable>
-            <searchable>true</searchable>
-            <indexPrimaryKey>false</indexPrimaryKey>
-        </field>
     </fields>
 </datasetFields>
