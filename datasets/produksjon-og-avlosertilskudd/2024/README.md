@@ -1,5 +1,5 @@
-# Datasett: 	Produksjons- og avløsertilskudd til jordbruksforetak – søknadsomgang 2024 del 1
- Sist oppdatert: 2024-04-14 12:09
+# Datasett: 	Produksjons- og avløsertilskudd til jordbruksforetak – søknadsomgang 2024
+ Sist oppdatert: 2024-11-11 22:26
 
  Filer:
  - [sample.csv](sample.csv) — eksempeldata
