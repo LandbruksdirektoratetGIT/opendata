@@ -522,6 +522,14 @@
 			<content>Verpehøner for konsumeggproduksjon, 20 uker og eldre</content>
 		</field>
 		<field>
+			<name>P162 høst</name>
+			<shortName>p162_hoest</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Antall rugeegg levert til rugeri i søknadsåret</content>
+		</field>
+		<field>
 			<name>P168 vår</name>
 			<shortName>p168_vaar</shortName>
 			<groupable>false</groupable>
@@ -536,38 +544,6 @@
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
 			<content>Avlsdyr av ender, kalkuner og gjess</content>
-		</field>
-		<field>
-			<name>P170 vår</name>
-			<shortName>p170_vaar</shortName>
-			<groupable>false</groupable>
-			<searchable>false</searchable>
-			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Mink, avlstisper født foregående år eller tidligere</content>
-		</field>
-		<field>
-			<name>P170 høst</name>
-			<shortName>p170_hoest</shortName>
-			<groupable>false</groupable>
-			<searchable>false</searchable>
-			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Mink, avlstisper født foregående år eller tidligere</content>
-		</field>
-		<field>
-			<name>P171 vår</name>
-			<shortName>p171_vaar</shortName>
-			<groupable>false</groupable>
-			<searchable>false</searchable>
-			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Rev, avlstisper født foregående år eller tidligere</content>
-		</field>
-		<field>
-			<name>P171 høst</name>
-			<shortName>p171_hoest</shortName>
-			<groupable>false</groupable>
-			<searchable>false</searchable>
-			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Rev, avlstisper født foregående år eller tidligere</content>
 		</field>
 		<field>
 			<name>P174 vår</name>
@@ -682,6 +658,54 @@
 			<content>Struts</content>
 		</field>
 		<field>
+			<name>P184</name>
+			<shortName>p184</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Slaktegriser, slaktet i søknadsåret</content>
+		</field>
+		<field>
+			<name>P185 høst</name>
+			<shortName>p185_hoest</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Livkyllinger, påsatt til verpehøns, livkalkuner, solgt inneværende år</content>
+		</field>
+		<field>
+			<name>P186</name>
+			<shortName>p186</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Kyllinger, konvensjonelle, slaktet i søknadsåret</content>
+		</field>
+		<field>
+			<name>P187</name>
+			<shortName>p187</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Ender, slaktet i søknadsåret</content>
+		</field>
+		<field>
+			<name>P188</name>
+			<shortName>p188</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Kalkuner, slaktet i søknadsåret</content>
+		</field>
+		<field>
+			<name>P189</name>
+			<shortName>p189</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Gjess, slaktet i søknadsåret</content>
+		</field>
+		<field>
 			<name>P192 vår</name>
 			<shortName>p192_vaar</shortName>
 			<groupable>false</groupable>
@@ -751,7 +775,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Fulldyrket eng</content>
+			<content>Fulldyrket eng, daa</content>
 		</field>
 		<field>
 			<name>P211</name>
@@ -759,7 +783,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Overflatedyrket eng</content>
+			<content>Overflatedyrket eng, daa</content>
 		</field>
 		<field>
 			<name>P212</name>
@@ -767,7 +791,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Innmarksbeite</content>
+			<content>Innmarksbeite, daa</content>
 		</field>
 		<field>
 			<name>P213</name>
@@ -775,7 +799,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Andre grovfôrvekster til fôr</content>
+			<content>Andre grovfôrvekster til fôr, daa</content>
 		</field>
 		<field>
 			<name>P223</name>
@@ -783,7 +807,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Grønngjødsling</content>
+			<content>Grønngjødsling, daa</content>
 		</field>
 		<field>
 			<name>P230</name>
@@ -791,7 +815,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Poteter</content>
+			<content>Poteter, daa</content>
 		</field>
 		<field>
 			<name>P231</name>
@@ -799,7 +823,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Annet korn og frø som er berettiget tilskudd</content>
+			<content>Annet korn og frø som er berettiget tilskudd, daa</content>
 		</field>
 		<field>
 			<name>P235</name>
@@ -807,7 +831,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Engfrø og annen såfrøproduksjon</content>
+			<content>Engfrø og annen såfrøproduksjon, daa</content>
 		</field>
 		<field>
 			<name>P236</name>
@@ -815,7 +839,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Erter, bønner og andre belgvekster til modning</content>
+			<content>Erter, bønner og andre belgvekster til modning, daa</content>
 		</field>
 		<field>
 			<name>P237</name>
@@ -823,7 +847,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Oljevekster</content>
+			<content>Oljevekster, daa</content>
 		</field>
 		<field>
 			<name>P238</name>
@@ -831,7 +855,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Rug og rughvete</content>
+			<content>Rug og rughvete, daa</content>
 		</field>
 		<field>
 			<name>P239</name>
@@ -839,7 +863,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Korn til krossing</content>
+			<content>Korn til krossing, daa</content>
 		</field>
 		<field>
 			<name>P240</name>
@@ -847,7 +871,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Vårhvete</content>
+			<content>Vårhvete, daa</content>
 		</field>
 		<field>
 			<name>P242</name>
@@ -855,7 +879,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Bygg</content>
+			<content>Bygg, daa</content>
 		</field>
 		<field>
 			<name>P243</name>
@@ -863,7 +887,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Havre</content>
+			<content>Havre, daa</content>
 		</field>
 		<field>
 			<name>P245</name>
@@ -871,7 +895,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Erter og bønner til konservesindustri (høstet før modning)</content>
+			<content>Erter og bønner til konservesindustri (høstet før modning), daa</content>
 		</field>
 		<field>
 			<name>P247</name>
@@ -879,7 +903,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Høsthvete</content>
+			<content>Høsthvete, daa</content>
 		</field>
 		<field>
 			<name>P264</name>
@@ -887,7 +911,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Grønnsaker på friland, inkl. matkålrot og urter</content>
+			<content>Grønnsaker på friland, inkl. matkålrot og urter, daa</content>
 		</field>
 		<field>
 			<name>P271</name>
@@ -895,7 +919,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Moreller og kirsebær</content>
+			<content>Moreller og kirsebær, daa</content>
 		</field>
 		<field>
 			<name>P272</name>
@@ -903,7 +927,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Epler</content>
+			<content>Epler, daa</content>
 		</field>
 		<field>
 			<name>P273</name>
@@ -911,7 +935,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Pærer</content>
+			<content>Pærer, daa</content>
 		</field>
 		<field>
 			<name>P274</name>
@@ -919,7 +943,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Plommer</content>
+			<content>Plommer, daa</content>
 		</field>
 		<field>
 			<name>P280</name>
@@ -927,7 +951,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Jordbær</content>
+			<content>Jordbær, daa</content>
 		</field>
 		<field>
 			<name>P282</name>
@@ -935,7 +959,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Andre bærarter</content>
+			<content>Andre bærarter, daa</content>
 		</field>
 		<field>
 			<name>P283</name>
@@ -943,7 +967,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Andre fruktarter</content>
+			<content>Andre fruktarter, daa</content>
 		</field>
 		<field>
 			<name>P285</name>
@@ -951,7 +975,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Planteskoleareal og blomsterdyrking på friland</content>
+			<content>Planteskoleareal og blomsterdyrking på friland, daa</content>
 		</field>
 		<field>
 			<name>P290</name>
@@ -959,7 +983,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Brakka areal</content>
+			<content>Brakka areal, daa</content>
 		</field>
 		<field>
 			<name>P292</name>
@@ -967,7 +991,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Fulldyrket og/eller overflatedyrket areal ute av drift</content>
+			<content>Fulldyrket og/eller overflatedyrket areal ute av drift, daa</content>
 		</field>
 		<field>
 			<name>P293</name>
@@ -975,7 +999,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Innmarksbeite, ute av drift</content>
+			<content>Innmarksbeite, ute av drift, daa</content>
 		</field>
 		<field>
 			<name>P294</name>
@@ -983,7 +1007,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Areal i drift, men ikke berettiget produksjonstilskudd</content>
+			<content>Areal i drift, men ikke berettiget produksjonstilskudd, daa</content>
 		</field>
 		<field>
 			<name>P410</name>
@@ -1127,7 +1151,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Salg av grovfôr, høy</content>
+			<content>Salg av grovfôr, høy, kg</content>
 		</field>
 		<field>
 			<name>P522</name>
@@ -1135,7 +1159,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Salg av grovfôr, surfôr</content>
+			<content>Salg av grovfôr, surfôr, kg</content>
 		</field>
 		<field>
 			<name>P523</name>
@@ -1143,7 +1167,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Salg av grovför, høyensilasje</content>
+			<content>Salg av grovför, høyensilasje, kg</content>
 		</field>
 		<field>
 			<name>P720</name>
@@ -1290,6 +1314,22 @@
 			<content>Økologiske avlsgriser</content>
 		</field>
 		<field>
+			<name>P831</name>
+			<shortName>p831</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Økologiske slaktegriser, slaktet i søknadsåret</content>
+		</field>
+		<field>
+			<name>P840</name>
+			<shortName>p840</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Økologiske kyllinger, slaktet i søknadsåret</content>
+		</field>
+		<field>
 			<name>P841 vår</name>
 			<shortName>p841_vaar</shortName>
 			<groupable>false</groupable>
@@ -1311,7 +1351,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Grønngjødsling, 2. års karens</content>
+			<content>Grønngjødsling, 2. års karens, daa</content>
 		</field>
 		<field>
 			<name>P855</name>
@@ -1319,7 +1359,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Korn til modning og krossing, økologisk samt 2. års karens</content>
+			<content>Korn til modning og krossing, økologisk samt 2. års karens, daa</content>
 		</field>
 		<field>
 			<name>P861</name>
@@ -1327,7 +1367,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Poteter, økologisk areal samt 2.års karens</content>
+			<content>Poteter, økologisk areal samt 2.års karens, daa</content>
 		</field>
 		<field>
 			<name>P863</name>
@@ -1335,7 +1375,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Frukt og bær, økologisk areal samt 2. års karens</content>
+			<content>Frukt og bær, økologisk areal samt 2. års karens, daa</content>
 		</field>
 		<field>
 			<name>P864</name>
@@ -1343,7 +1383,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Grønnsaker, økologisk areal samt 2. års karens</content>
+			<content>Grønnsaker, økologisk areal samt 2. års karens, daa</content>
 		</field>
 		<field>
 			<name>P870</name>
@@ -1351,7 +1391,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Grovfôrareal (unntatt innmarksbeite), økologisk areal samt 2. års karens</content>
+			<content>Grovfôrareal (unntatt innmarksbeite), økologisk areal samt 2. års karens, daa</content>
 		</field>
 		<field>
 			<name>P871</name>
@@ -1359,7 +1399,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Innmarksbeite, økologisk areal</content>
+			<content>Innmarksbeite, økologisk areal, daa</content>
 		</field>
 		<field>
 			<name>P875</name>
@@ -1367,7 +1407,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Grønngjødsling, økologisk areal</content>
+			<content>Grønngjødsling, økologisk areal, daa</content>
 		</field>
 		<field>
 			<name>P876</name>
@@ -1375,7 +1415,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Areal brakket for å bekjempe ugress</content>
+			<content>Areal brakket for å bekjempe ugress, daa</content>
 		</field>
 		<field>
 			<name>P880</name>
@@ -1383,7 +1423,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Innmarksbeite i 1. års karens</content>
+			<content>Innmarksbeite i 1. års karens, daa</content>
 		</field>
 		<field>
 			<name>P881</name>
@@ -1391,7 +1431,7 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Grovfôrareal (unntatt innmarksbeite) i 1. års karens</content>
+			<content>Grovfôrareal (unntatt innmarksbeite) i 1. års karens, daa</content>
 		</field>
 		<field>
 			<name>P882</name>
@@ -1399,7 +1439,135 @@
 			<groupable>false</groupable>
 			<searchable>false</searchable>
 			<indexPrimaryKey>false</indexPrimaryKey>
-			<content>Annet areal i 1. års karens</content>
+			<content>Annet areal i 1. års karens, daa</content>
+		</field>
+		<field>
+			<name>Arealtilskudd</name>
+			<shortName>arealtilskudd</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Arealtilskudd</content>
+		</field>
+		<field>
+			<name>Tilskudd til avløsning ved ferie og fritid</name>
+			<shortName>avloesertilskudd</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Tilskudd til avløsning ved ferie og fritid</content>
+		</field>
+		<field>
+			<name>Tilskudd for dyr på beite</name>
+			<shortName>beitetilskudd</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Tilskudd for dyr på beite</content>
+		</field>
+		<field>
+			<name>Tilskudd for dyr av bevaringsverdige husdyrraser</name>
+			<shortName>bevaringsverdige_husdyr_tilsku</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Tilskudd for dyr av bevaringsverdige husdyrraser</content>
+		</field>
+		<field>
+			<name>Distriktstilskudd for frukt, bær, veksthusgrønnsaker (inkl. salat på friland)</name>
+			<shortName>distriktstilskudd_frukt_groent</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Distriktstilskudd for frukt, bær, veksthusgrønnsaker (inkl. salat på friland)</content>
+		</field>
+		<field>
+			<name>Distriktstilskudd for matpotet og grønnsaker i Nord-Norge</name>
+			<shortName>distriktstilskudd_potet_gronns</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Distriktstilskudd for matpotet og grønnsaker i Nord-Norge</content>
+		</field>
+		<field>
+			<name>Husdyrtilskudd</name>
+			<shortName>husdyrtilskudd</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Husdyrtilskudd</content>
+		</field>
+		<field>
+			<name>Kulturlandskapstilskudd</name>
+			<shortName>kulturlandskapstilskudd</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Kulturlandskapstilskudd</content>
+		</field>
+		<field>
+			<name>Driftstilskudd til melkeproduksjon</name>
+			<shortName>melkeproduksjon</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Driftstilskudd til melkeproduksjon</content>
+		</field>
+		<field>
+			<name>Arealtilskudd til økologisk landbruk</name>
+			<shortName>oekologiskarealtilskudd</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Arealtilskudd til økologisk landbruk</content>
+		</field>
+		<field>
+			<name>Tilskudd til økologisk husdyrproduksjon</name>
+			<shortName>oekologiskhusdyrtilskudd</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Tilskudd til økologisk husdyrproduksjon</content>
+		</field>
+		<field>
+			<name>Tilskudd til små og mellomstore melkebruk</name>
+			<shortName>smaa_mellomstore_melkebruk</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Tilskudd til små og mellomstore melkebruk</content>
+		</field>
+		<field>
+			<name>Driftstilskudd til spesialisert storfekjøttproduksjon</name>
+			<shortName>storfekjoettproduksjon</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Driftstilskudd til spesialisert storfekjøttproduksjon</content>
+		</field>
+		<field>
+			<name>Tilskudd for dyr på utmarksbeite</name>
+			<shortName>utmarksbeitetilskudd</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Tilskudd for dyr på utmarksbeite</content>
+		</field>
+		<field>
+			<name>Bunnfradrag</name>
+			<shortName>bunnfradrag</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Bunnfradrag</content>
+		</field>
+		<field>
+			<name>Sum produksjons- og avloesertilskudd</name>
+			<shortName>sum_produksjons_og_avloesertilskudd</shortName>
+			<groupable>false</groupable>
+			<searchable>false</searchable>
+			<indexPrimaryKey>false</indexPrimaryKey>
+			<content>Sum produksjons- og avløsertilskudd</content>
 		</field>
 	</fields>
 </datasetFields>
