@@ -3,8 +3,7 @@
 
  Filer:
   - [meta.xml](meta.xml) — metadata (tittel og sist-oppdatert)
- - [fields.xml](fields.xml) — feltdefinisjonar (XML)
- - [fields.csv](fields.csv) — feltdefinisjonar (CSV)
+  - [fields.csv](fields.csv) — feltdefinisjonar (CSV)
 
 Datasett: https://www.landbruksdirektoratet.no/nb/statistikk-og-utviklingstrekk/tilskudd-til-jordbruksforetak
 
