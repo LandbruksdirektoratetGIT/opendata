@@ -2,8 +2,7 @@
  Sist oppdatert: 2025-03-07 16:15
 
  Filer:
- - [sample.csv](sample.csv) — eksempeldata
- - [meta.xml](meta.xml) — metadata (tittel og sist-oppdatert)
+  - [meta.xml](meta.xml) — metadata (tittel og sist-oppdatert)
  - [fields.xml](fields.xml) — feltdefinisjonar (XML)
  - [fields.csv](fields.csv) — feltdefinisjonar (CSV)
 
