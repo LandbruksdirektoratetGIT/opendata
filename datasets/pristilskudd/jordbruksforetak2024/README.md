@@ -13,6 +13,8 @@ Datasett: https://www.landbruksdirektoratet.no/nb/statistikk-og-utviklingstrekk/
 ## Feltdefinisjonar
 Henta frå fields.csv
 
+| name |
+| --- |
 | Orgnavn/orgnr. |
 | Sum pristilskudd |
 | Distriktstilskudd egg |
