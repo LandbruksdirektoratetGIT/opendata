@@ -1,0 +1,684 @@
+soeknads_aar,statsforvalter,saksbehandlende_kommune,orgnr,komnr,gardsnr,bruksnr,festenr,miljoetema,tiltak,tiltaksklasse,sats,enhet,antall,beloep,aktivitetsomraade
+2024,Østfold Buskerud Oslo og Akershus,3330,999668135,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,1352,33800,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3205,999666248,3205,252,10,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,95,11400,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3205,999666248,3205,252,10,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,19,2280,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3205,999666248,3205,252,10,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,210,DEKAR,39,8190,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3205,999666248,3205,252,10,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,210,DEKAR,3,630,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3220,999665462,3220,69,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark,Beiting av verdifulle jordbrukslandskap i innmark,200,DEKAR,4,800,Regionalt prioriterte kulturlandskap
+2024,Østfold Buskerud Oslo og Akershus,3220,999665462,3220,69,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,23,2760,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3220,999665462,3220,69,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,55,6600,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3220,999665462,3220,69,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,210,DEKAR,42,8820,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3220,999665462,3220,69,1,0,Avrenning til vann,Gras på arealer utsatt for flom og erosjon,Prioriterte områder,240,DEKAR,50,12000,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3220,999665462,3220,69,1,0,Avrenning til vann,Ingen jordarbeiding på flomutsatte arealer,Prioriterte områder,120,DEKAR,12,1440,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3220,999665462,3220,69,1,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,21,METER,695,14595,Avrenning
+2024,Vestfold og Telemark,3903,999662730,3903,247,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,220,DEKAR,19,4180,Avrenning
+2024,Vestfold og Telemark,3903,999662730,3903,247,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,220,DEKAR,6,1320,Avrenning
+2024,Nordland,1833,999660347,,,,,Kulturlandskap,Drift av beitelag,Småfe,15,ANTALL_DYR,619,9285,Opprettholde kulturlandskapet
+2024,Nordland,1833,999660347,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,34,850,Opprettholde kulturlandskapet
+2024,Rogaland,1108,999659748,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,1580,39500,Opprettholde kulturlandskapet
+2024,Vestfold og Telemark,4010,999659209,4010,31,64,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,95,DEKAR,5,475,Avrenning
+2024,Vestfold og Telemark,4010,999659209,4010,31,64,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,130,DEKAR,11,1430,Avrenning
+2024,Vestfold og Telemark,4010,999659209,4010,31,64,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,220,DEKAR,8,1760,Avrenning
+2024,Vestfold og Telemark,4010,999659209,4010,31,64,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,220,DEKAR,3,660,Avrenning
+2024,Møre og Romsdal,1539,999654797,,,,,Kulturlandskap,Drift av beitelag,Småfe,20,ANTALL_DYR,661,13220,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1539,999654797,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,432,10800,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1520,999654339,1520,162,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,400,DEKAR,42,16800,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1520,999654339,1520,162,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,500,DEKAR,8,4000,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3426,999653170,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,521,16672,Opprettholde kulturlandskapet
+2024,Innlandet,3426,999653170,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,40,2800,Opprettholde kulturlandskapet
+2024,Rogaland,1121,999646123,,,,,Biologisk mangfold,Skjøtsel av biologisk verdifulle arealer,Beiting,300,DEKAR,11,3300,Prioriterte naturverdier
+2024,Rogaland,1121,999646123,,,,,Avrenning til vann,Kantsone i eng,Prioriterte områder,25,METER,222,5550,Avrenning
+2024,Innlandet,3439,999645755,3439,49,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,1,125,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3439,999645755,3439,49,3,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Slått/rydding,150,DEKAR,40,6000,Nyere tids kulturminner
+2024,Vestland,4643,999642071,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,762,22860,Opprettholde kulturlandskapet
+2024,Trøndelag,5037,999641717,5037,348,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,180,DEKAR,56,10080,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5037,999641717,5037,348,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,232,DEKAR,3,696,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5037,999641717,5037,348,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,21,DEKAR,489,10269,Miljøvennlig spredning av husdyrgjødsel
+2024,Østfold Buskerud Oslo og Akershus,3118,999640001,3118,225,2,0,Kulturlandskap,Skjøtsel av gårdsdammer,Skjøtsel av gårdsdammer,455,ANTALL,5,2275,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3118,999640001,3118,225,2,0,Jord og jordhelse,Fangvekster sådd etter høsting,Hovedvekst korn/oljevekster/belgvekster/fÃ´rmais,185,DEKAR,229,42365,Jordhelse og karbonlagring
+2024,Østfold Buskerud Oslo og Akershus,3118,999640001,3118,225,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,367,44040,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999640001,3118,225,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,147,17640,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999640001,3118,225,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,210,DEKAR,76,15960,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999640001,3118,225,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,120,DEKAR,53,6360,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999640001,3118,225,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,210,DEKAR,40,8400,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999640001,3118,225,2,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,21,METER,3721,78141,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999640001,3118,225,2,0,Avrenning til vann,Fangdam,Prioriterte områder,755,DEKAR,1,755,Avrenning
+2024,Vestland,4644,999639569,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,2391,71730,Opprettholde kulturlandskapet
+2024,Vestland,4644,999639569,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,36,1260,Opprettholde kulturlandskapet
+2024,Innlandet,3453,999638198,3453,14,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,50,6250,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3453,999638198,3453,14,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,35,4375,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3453,999638198,3453,14,3,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Beiting,150,DEKAR,20,3000,Nyere tids kulturminner
+2024,Østfold Buskerud Oslo og Akershus,3305,999626998,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,1361,34025,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3305,999626998,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,30,ANTALL_DYR,1107,33210,Opprettholde kulturlandskapet
+2024,Innlandet,3438,999620264,3438,117,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,87,10875,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3438,999620264,3438,117,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,41,5125,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3438,999620264,3438,117,1,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Slått/rydding,150,DEKAR,20,3000,Nyere tids kulturminner
+2024,Innlandet,3438,999620264,3438,117,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,75,DEKAR,184,13800,Miljøvennlig spredning av husdyrgjødsel
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Kulturlandskap,Skjøtsel av gårdsdammer,Skjøtsel av gårdsdammer,455,ANTALL,1,455,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Biologisk mangfold,Soner for pollinerende insekter,Egen stripe - regional frøblanding,20,METER,4386,87720,Prioriterte naturverdier
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Biologisk mangfold,Soner for pollinerende insekter,Tilgrensende kantsone,10,METER,200,2000,Prioriterte naturverdier
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Jord og jordhelse,Fangvekster sådd etter høsting,Hovedvekst korn/oljevekster/belgvekster/fÃ´rmais,185,DEKAR,325,60125,Jordhelse og karbonlagring
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Jord og jordhelse,Fangvekster med høy diversitet,Fangvekster med høy diversitet,55,DEKAR,325,17875,Jordhelse og karbonlagring
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,90,10800,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,99,11880,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,120,DEKAR,27,3240,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,210,DEKAR,105,22050,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,21,METER,593,12453,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3216,999615996,3216,114,2,0,Avrenning til vann,Fangdam,Prioriterte områder,755,DEKAR,1,755,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3312,999615104,3312,62,1,0,Biologisk mangfold,Soner for pollinerende insekter,Egen stripe - generell frøblanding,10,METER,514,5140,Prioriterte naturverdier
+2024,Østfold Buskerud Oslo og Akershus,3312,999615104,3312,62,1,0,Biologisk mangfold,Soner for pollinerende insekter,Tilgrensende kantsone,10,METER,186,1860,Prioriterte naturverdier
+2024,Østfold Buskerud Oslo og Akershus,3312,999615104,3312,62,1,0,Avrenning til vann,Gras på arealer utsatt for flom og erosjon,Prioriterte områder,240,DEKAR,9,2160,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3312,999615104,3312,62,1,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,21,METER,86,1806,Avrenning
+2024,Møre og Romsdal,1525,999614558,,,,,Kulturlandskap,Drift av beitelag,Småfe,20,ANTALL_DYR,2568,51360,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1525,999614558,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,241,6025,Opprettholde kulturlandskapet
+2024,Rogaland,1133,999608620,1133,108,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,181,DEKAR,3,543,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1133,999608620,1133,108,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,181,DEKAR,4,724,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1133,999608620,1133,108,2,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,54,8694,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1133,999608620,1133,108,2,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,95,15295,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1133,999608620,1133,108,2,0,Klimarådgivning,Klimarådgivning,Grupperådgiving,2000,ANTALL,1,2000,Klimarådgivning
+2024,Rogaland,1133,999608620,1133,108,2,0,Kulturminner og kulturmiljøer,Skjøtsel av automatisk fredete kulturminner,Beiting,100,DEKAR,4,400,Automatisk fredede kulturminner
+2024,Rogaland,1133,999608620,1133,108,2,0,Kulturminner og kulturmiljøer,Skjøtsel av enkeltstående automatisk fredete kulturminner,Beiting,500,ANTALL,3,1500,Automatisk fredede kulturminner
+2024,Rogaland,1133,999608620,1133,108,2,0,Utslipp til luft,Nedfelling av husdyrgjødsel,Voksende kultur,81,DEKAR,105,8505,Miljøvennlig spredning av husdyrgjødsel
+2024,Østfold Buskerud Oslo og Akershus,3205,999608353,3205,298,2,0,Jord og jordhelse,Bruk av egenprodusert kompost,Bruk av egenprodusert kompost,350,DEKAR,425,148750,Jordhelse og karbonlagring
+2024,Østfold Buskerud Oslo og Akershus,3205,999608353,3205,298,2,0,Avrenning til vann,Kantsone i eng,Prioriterte områder,21,METER,1011,21231,Avrenning
+2024,Innlandet,3432,999608000,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,3407,109024,Opprettholde kulturlandskapet
+2024,Innlandet,3432,999608000,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,496,34720,Opprettholde kulturlandskapet
+2024,Vestland,4650,999607896,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,604,18120,Opprettholde kulturlandskapet
+2024,Vestland,4650,999607896,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,153,5355,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1547,999605397,1579,87,46,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,70,DEKAR,637,44590,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4646,999601987,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1596,47880,Opprettholde kulturlandskapet
+2024,Vestland,4646,999601987,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,48,1680,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3240,999601928,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,2884,72100,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3240,999601928,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,30,ANTALL_DYR,12,360,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3338,999600506,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,1911,47775,Opprettholde kulturlandskapet
+2024,Trøndelag,5029,999600441,,,,,Kulturlandskap,Drift av beitelag,Småfe,42,ANTALL_DYR,241,10122,Opprettholde kulturlandskapet
+2024,Trøndelag,5029,999600441,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,85,ANTALL_DYR,63,5355,Opprettholde kulturlandskapet
+2024,Rogaland,1134,999600425,1134,99999,3044,0,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,677,16925,Opprettholde kulturlandskapet
+2024,Rogaland,1134,999600425,1134,99999,3044,0,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,27,675,Opprettholde kulturlandskapet
+2024,Vestland,4647,999599710,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,7693,230790,Opprettholde kulturlandskapet
+2024,Vestland,4647,999599710,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,918,32130,Opprettholde kulturlandskapet
+2024,Trøndelag,5060,999595723,5060,124,12,0,Klimarådgivning,Klimarådgivning,To-til-en rådgiving,8448,ANTALL,1,8448,Klimarådgivning
+2024,Trøndelag,5060,999595723,5060,124,12,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,21,DEKAR,310,6510,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3432,999592880,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,1705,54560,Opprettholde kulturlandskapet
+2024,Innlandet,3432,999592880,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,236,16520,Opprettholde kulturlandskapet
+2024,Vestland,4647,999592120,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1536,46080,Opprettholde kulturlandskapet
+2024,Vestland,4647,999592120,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,130,4550,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1517,999589545,1517,45,1,0,Kulturminner og kulturmiljøer,Skjøtsel av enkeltstående automatisk fredete kulturminner,Beiting,1000,ANTALL,2,2000,Automatisk fredede kulturminner
+2024,Møre og Romsdal,1566,999588484,1566,13,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,400,DEKAR,24,9600,Avrenning
+2024,Møre og Romsdal,1566,999588484,1566,13,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,400,DEKAR,29,11600,Avrenning
+2024,Møre og Romsdal,1566,999588484,1566,13,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,400,DEKAR,5,2000,Avrenning
+2024,Møre og Romsdal,1566,999588484,1566,13,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,400,DEKAR,5,2000,Avrenning
+2024,Møre og Romsdal,1566,999588484,1566,13,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,400,DEKAR,13,5200,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark,Beiting av verdifulle jordbrukslandskap i innmark,85,DEKAR,57,4845,Regionalt prioriterte kulturlandskap
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Kulturlandskap,Skjøtsel av gårdsdammer,Skjøtsel av gårdsdammer,680,ANTALL,1,680,Opprettholde kulturlandskapet
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Biologisk mangfold,Soner for pollinerende insekter,Egen stripe - generell frøblanding,9,METER,1558,14022,Prioriterte naturverdier
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Jord og jordhelse,Fangvekster som underkultur,Hovedvekst korn/oljevekster/belgvekster/fÃ´rmais,200,DEKAR,155,31000,Jordhelse og karbonlagring
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Jord og jordhelse,Fangvekster sådd etter høsting,Hovedvekst korn/oljevekster/belgvekster/fÃ´rmais,300,DEKAR,58,17400,Jordhelse og karbonlagring
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,95,DEKAR,7,665,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,130,DEKAR,141,18330,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,220,DEKAR,105,23100,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 4, prioriterte områder,275,DEKAR,30,8250,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,220,DEKAR,39,8580,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Avrenning til vann,Grasdekte vannveier i åker, korn m.m.,Prioriterte områder,36,METER,801,28836,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,18,METER,636,11448,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Avrenning til vann,Direktesådd høstkorn og høstoljevekster, lett harving,Prioriterte områder,160,DEKAR,30,4800,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Avrenning til vann,Direktesådd høstkorn og høstoljevekster, direktesådd,Prioriterte områder,215,DEKAR,5,1075,Avrenning
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Utslipp til luft,Nedfelling av husdyrgjødsel,Voksende kultur,50,DEKAR,185,9250,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestfold og Telemark,3907,999585159,3907,500,1,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,45,DEKAR,185,8325,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3436,999584578,3436,212,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,103,12875,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3436,999584578,3436,212,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,74,9250,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3436,999584578,3436,212,3,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Beiting,150,DEKAR,32,4800,Nyere tids kulturminner
+2024,Møre og Romsdal,1547,999578845,1554,20,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,400,DEKAR,104,41600,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1547,999578845,1554,20,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,500,DEKAR,1,500,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1547,999578845,1554,20,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,70,DEKAR,341,23870,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4651,999577059,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1033,30990,Opprettholde kulturlandskapet
+2024,Vestland,4651,999577059,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,129,4515,Opprettholde kulturlandskapet
+2024,Trøndelag,5021,999576273,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,85,ANTALL_DYR,161,13685,Opprettholde kulturlandskapet
+2024,Vestfold og Telemark,3905,999575110,3905,361,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,95,DEKAR,1,95,Avrenning
+2024,Vestfold og Telemark,3905,999575110,3905,361,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,130,DEKAR,110,14300,Avrenning
+2024,Vestfold og Telemark,3905,999575110,3905,361,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,220,DEKAR,110,24200,Avrenning
+2024,Vestfold og Telemark,3905,999575110,3905,361,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 4, prioriterte områder,275,DEKAR,26,7150,Avrenning
+2024,Vestfold og Telemark,3905,999575110,3905,361,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,220,DEKAR,49,10780,Avrenning
+2024,Vestfold og Telemark,3905,999575110,3905,361,3,0,Avrenning til vann,Grasdekte vannveier i åker, korn m.m.,Prioriterte områder,36,METER,360,12960,Avrenning
+2024,Innlandet,3427,999571204,3427,114,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,88,11000,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3427,999571204,3427,114,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,14,1750,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3427,999571204,3427,114,1,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Beiting,150,DEKAR,40,4160,Nyere tids kulturminner
+2024,Innlandet,3427,999571204,3427,114,1,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Slått/rydding,150,DEKAR,60,6240,Nyere tids kulturminner
+2024,Innlandet,3430,999562914,3430,131,17,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark, dekar,Beiting av verdifulle jordbrukslandskap i innmark, dekar,125,DEKAR,22,2750,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3430,999562914,3430,131,17,0,Biologisk mangfold,Skjøtsel av trua naturtyper,Beiting,200,DEKAR,13,2600,Prioriterte naturverdier
+2024,Innlandet,3430,999562914,3430,131,17,0,Kulturminner og kulturmiljøer,Drift av seter,Levering til meieri, 6 uker eller mer,138000,ANDEL,1,138000,Setring
+2024,Innlandet,3430,999562914,3430,131,17,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,75,DEKAR,67,5025,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3430,999562914,3430,131,17,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Nedmolding innen 2 timer i åpen åker,90,DEKAR,10,900,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3405,999562477,3405,28,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,43,5375,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3405,999562477,3405,28,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,182,DEKAR,27,4914,Avrenning
+2024,Innlandet,3405,999562477,3405,28,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,237,DEKAR,1,237,Avrenning
+2024,Innlandet,3405,999562477,3405,28,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,212,DEKAR,135,28620,Avrenning
+2024,Vestland,4622,999562159,4622,110,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,15,6960,Regionalt prioriterte kulturlandskap
+2024,Vestland,4622,999562159,4622,110,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,7,5103,Regionalt prioriterte kulturlandskap
+2024,Vestland,4640,999560016,4640,81,6,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,12,5568,Regionalt prioriterte kulturlandskap
+2024,Vestland,4640,999560016,4640,81,6,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,3,2187,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5020,999558399,5020,19,2,0,Biologisk mangfold,Skjøtsel av biologisk verdifulle arealer,Beiting,137,DEKAR,115,15755,Prioriterte naturverdier
+2024,Østfold Buskerud Oslo og Akershus,3314,999556973,3314,17,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,15,1800,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999556973,3314,17,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,15,1800,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999556973,3314,17,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,120,DEKAR,67,8040,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999556973,3314,17,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,210,DEKAR,5,1050,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999556973,3314,17,2,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,21,METER,425,8925,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999556973,3314,17,2,0,Avrenning til vann,Fangdam,Prioriterte områder,755,DEKAR,7,5285,Avrenning
+2024,Trøndelag,5034,999556396,5034,18,2,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark,Beiting av verdifulle jordbrukslandskap i innmark,180,DEKAR,10,1800,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5034,999556396,5034,18,2,0,Biologisk mangfold,Skjøtsel av biologisk verdifulle arealer,Beiting,137,DEKAR,52,7124,Prioriterte naturverdier
+2024,Trøndelag,5034,999556396,5034,18,2,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,69,DEKAR,313,21597,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5034,999556396,5034,18,2,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,59,DEKAR,312,18408,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4640,999556388,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1718,51540,Opprettholde kulturlandskapet
+2024,Innlandet,3412,999555608,3412,12,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,1,125,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3412,999555608,3412,12,1,0,Biologisk mangfold,Soner for pollinerende insekter,Egen stripe - generell frøblanding,10,METER,35,350,Prioriterte naturverdier
+2024,Innlandet,3412,999555608,3412,12,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,182,DEKAR,149,27118,Avrenning
+2024,Innlandet,3412,999555608,3412,12,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,212,DEKAR,50,10600,Avrenning
+2024,Innlandet,3412,999555608,3412,12,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Nedmolding innen 2 timer i åpen åker,90,DEKAR,65,5850,Miljøvennlig spredning av husdyrgjødsel
+2024,Nordland,1856,999555349,1856,9,42,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark, dyr,Beiting av verdifulle jordbrukslandskap i innmark, dyr,399,ANTALL_DYR,15,5985,Regionalt prioriterte kulturlandskap
+2024,Nordland,1856,999555349,1856,9,42,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,299,ANTALL_DYR,268,24507,35221,Regionalt prioriterte kulturlandskap
+2024,Nordland,1856,999555349,1856,9,42,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Hest/storfe,999,ANTALL_DYR,15,10492,64779,Regionalt prioriterte kulturlandskap
+2024,Nordland,1856,999555349,1856,9,42,0,Kulturlandskap,Slått av verdifulle jordbrukslandskap,Slått av verdifulle jordbrukslandskap,349,DEKAR,28,9772,Regionalt prioriterte kulturlandskap
+2024,Nordland,1856,999555349,1856,9,42,0,Kulturminner og kulturmiljøer,Skjøtsel av steingjerder,Skjøtsel av steingjerder,24,7,METER,786,19414,2,Nyere tids kulturminner
+2024,Trøndelag,5006,999552579,5006,403,5,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,106,DEKAR,23,2438,Avrenning
+2024,Trøndelag,5006,999552579,5006,403,5,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,116,DEKAR,35,4060,Avrenning
+2024,Trøndelag,5006,999552579,5006,403,5,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,280,DEKAR,12,3360,Avrenning
+2024,Trøndelag,5006,999552579,5006,403,5,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,143,DEKAR,31,4433,Avrenning
+2024,Trøndelag,5006,999552579,5006,403,5,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,180,DEKAR,25,4500,Avrenning
+2024,Trøndelag,5027,999550037,5027,120,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,180,DEKAR,36,6480,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5027,999550037,5027,120,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,232,DEKAR,2,464,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5027,999550037,5027,120,1,0,Kulturlandskap,Slått av verdifulle jordbrukslandskap,Slått av verdifulle jordbrukslandskap,317,DEKAR,8,2536,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5027,999550037,5027,120,1,0,Kulturminner og kulturmiljøer,Drift av seter,Levering til meieri, 6 uker eller mer,105000,ANDEL,2,52500,Setring
+2024,Østfold Buskerud Oslo og Akershus,3226,999549829,3226,105,3,0,Biologisk mangfold,Skjøtsel av biologisk verdifulle arealer,Beiting,240,DEKAR,7,1680,Prioriterte naturverdier
+2024,Østfold Buskerud Oslo og Akershus,3226,999549829,3226,105,3,0,Kulturminner og kulturmiljøer,Skjøtsel av trerekker,Skjøtsel av trerekker,20,METER,105,2100,Nyere tids kulturminner
+2024,Østfold Buskerud Oslo og Akershus,3226,999549829,3226,105,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,21,2520,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3226,999549829,3226,105,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,120,DEKAR,48,5760,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3226,999549829,3226,105,3,0,Avrenning til vann,Gras på arealer utsatt for flom og erosjon,Prioriterte områder,240,DEKAR,10,2400,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3226,999549829,3226,105,3,0,Avrenning til vann,Ingen jordarbeiding på flomutsatte arealer,Prioriterte områder,120,DEKAR,22,2640,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3226,999549829,3226,105,3,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,21,METER,570,11970,Avrenning
+2024,Møre og Romsdal,1578,999547079,1578,149,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,400,DEKAR,20,8000,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1578,999547079,1578,149,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,500,DEKAR,2,1000,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1578,999547079,1578,149,2,0,Kulturlandskap,Slått av verdifulle jordbrukslandskap,Slått av verdifulle jordbrukslandskap,120,DEKAR,130,15600,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1578,999547079,1578,149,2,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,85,DEKAR,495,42075,Miljøvennlig spredning av husdyrgjødsel
+2024,Rogaland,1119,999543731,1119,111,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,181,DEKAR,25,4525,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1119,999543731,1119,111,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,181,DEKAR,4,724,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1119,999543731,1119,111,3,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,156,25116,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1119,999543731,1119,111,3,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,116,18676,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1119,999543731,1119,111,3,0,Biologisk mangfold,Beiting av kystlynghei,Svært viktig,70,DEKAR,560,39200,Utvalgte naturtyper
+2024,Rogaland,1119,999543731,1119,111,3,0,Biologisk mangfold,Skjøtsel av biologisk verdifulle arealer,Beiting,300,DEKAR,33,9900,Prioriterte naturverdier
+2024,Rogaland,1119,999543731,1119,111,3,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,81,DEKAR,321,26001,Miljøvennlig spredning av husdyrgjødsel
+2024,Rogaland,1119,999543731,1119,111,3,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,51,DEKAR,298,15198,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4646,999543294,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1870,56100,Opprettholde kulturlandskapet
+2024,Vestland,4646,999543294,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,292,10220,Opprettholde kulturlandskapet
+2024,Vestland,4602,999542581,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,801,24030,Opprettholde kulturlandskapet
+2024,Vestland,4602,999542581,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,117,4095,Opprettholde kulturlandskapet
+2024,Innlandet,3429,999541933,3429,134,34,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,4,500,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3429,999541933,3429,134,34,0,Utslipp til luft,Nedfelling av husdyrgjødsel,Voksende kultur,90,DEKAR,115,10350,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3429,999541933,3429,134,34,0,Utslipp til luft,Nedfelling av husdyrgjødsel,Ã…pen åker,90,DEKAR,10,900,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4650,999538711,4650,12,39,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,15,6960,Regionalt prioriterte kulturlandskap
+2024,Vestland,4650,999538711,4650,12,39,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,31,22599,Regionalt prioriterte kulturlandskap
+2024,Vestland,4650,999538711,4650,12,39,0,Kulturminner og kulturmiljøer,Skjøtsel av automatisk fredete kulturminner,Slått,2000,DEKAR,2,4000,Automatisk fredede kulturminner
+2024,Innlandet,3430,999538096,3430,130,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark, dekar,Beiting av verdifulle jordbrukslandskap i innmark, dekar,125,DEKAR,9,1125,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3430,999538096,3430,130,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,72,9000,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3430,999538096,3430,130,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,5,625,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3430,999538096,3430,130,1,0,Klimarådgivning,Klimarådgivning,To-til-en rådgiving,8000,ANTALL,1,8000,Klimarådgivning
+2024,Innlandet,3430,999538096,3430,130,1,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Slått/rydding,150,DEKAR,55,8250,Nyere tids kulturminner
+2024,Innlandet,3439,999537715,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,2269,72608,Opprettholde kulturlandskapet
+2024,Innlandet,3439,999537715,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,589,41230,Opprettholde kulturlandskapet
+2024,Nordland,1827,999537243,,,,,Kulturlandskap,Drift av beitelag,Småfe,15,ANTALL_DYR,2679,40185,Opprettholde kulturlandskapet
+2024,Nordland,1827,999537243,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,190,4750,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3310,999536239,3310,205,4,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,160,DEKAR,17,2720,Regionalt prioriterte kulturlandskap
+2024,Østfold Buskerud Oslo og Akershus,3310,999536239,3310,205,4,0,Kulturminner og kulturmiljøer,Skjøtsel av enkeltstående automatisk fredete kulturminner,Slått,455,ANTALL,1,455,Automatisk fredede kulturminner
+2024,Østfold Buskerud Oslo og Akershus,3310,999536239,3310,205,4,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,131,15720,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3310,999536239,3310,205,4,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,17,2040,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3310,999536239,3310,205,4,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,120,DEKAR,33,3960,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3310,999536239,3310,205,4,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,210,DEKAR,5,1050,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3310,999536239,3310,205,4,0,Avrenning til vann,Gras på arealer utsatt for flom og erosjon,Prioriterte områder,240,DEKAR,4,960,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3310,999536239,3310,205,4,0,Avrenning til vann,Direktesådd høstkorn og høstoljevekster, direktesådd,Prioriterte områder,210,DEKAR,57,11970,Avrenning
+2024,Trøndelag,5037,999536026,5037,76,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,106,DEKAR,73,7738,Avrenning
+2024,Trøndelag,5037,999536026,5037,76,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,116,DEKAR,3,348,Avrenning
+2024,Møre og Romsdal,1577,999535690,1577,240,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,400,DEKAR,11,4400,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1577,999535690,1577,240,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,500,DEKAR,1,500,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1577,999535690,1577,240,1,0,Klimarådgivning,Klimarådgivning,Grupperådgiving,2000,ANTALL,1,2000,Klimarådgivning
+2024,Møre og Romsdal,1577,999535690,1577,240,1,0,Kulturminner og kulturmiljøer,Drift av seter,Levering til meieri, 6 uker eller mer,100000,ANDEL,7,14285,71,Setring
+2024,Møre og Romsdal,1577,999535690,1577,240,1,0,Kulturminner og kulturmiljøer,Skjøtsel av enkeltstående automatisk fredete kulturminner,Beiting,1000,ANTALL,1,1000,Automatisk fredede kulturminner
+2024,Møre og Romsdal,1577,999535690,1577,240,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,70,DEKAR,141,9870,Miljøvennlig spredning av husdyrgjødsel
+2024,Møre og Romsdal,1520,999533027,1520,28,6,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,400,DEKAR,7,2800,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1520,999533027,1520,28,6,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,70,DEKAR,360,25200,Miljøvennlig spredning av husdyrgjødsel
+2024,Rogaland,1160,999532381,1160,113,12,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,181,DEKAR,10,1810,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1160,999532381,1160,113,12,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,181,DEKAR,1,181,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1160,999532381,1160,113,12,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,151,24311,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1160,999532381,1160,113,12,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,97,15617,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1160,999532381,1160,113,12,0,Friluftsliv,Vedlikehold av turstier i jordbrukslandskapet,Høy tilrettelegging,9,METER,1641,14769,Turmuligheter og tilgjengelighet
+2024,Rogaland,1160,999532381,1160,113,12,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,81,DEKAR,144,11664,Miljøvennlig spredning av husdyrgjødsel
+2024,Rogaland,1160,999532381,1160,113,12,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,51,DEKAR,144,7344,Miljøvennlig spredning av husdyrgjødsel
+2024,Østfold Buskerud Oslo og Akershus,3118,999530982,3118,642,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,282,33840,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999530982,3118,642,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,61,7320,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999530982,3118,642,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,210,DEKAR,183,38430,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999530982,3118,642,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,210,DEKAR,3,630,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3118,999530982,3118,642,2,0,Avrenning til vann,Ingen jordarbeiding på flomutsatte arealer,Prioriterte områder,120,DEKAR,15,1800,Avrenning
+2024,Vestland,4618,999530966,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,3426,102780,Opprettholde kulturlandskapet
+2024,Vestland,4618,999530966,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,68,2380,Opprettholde kulturlandskapet
+2024,Innlandet,3228,999530524,3415,34,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,202,24240,Avrenning
+2024,Innlandet,3228,999530524,3415,34,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,20,2400,Avrenning
+2024,Innlandet,3228,999530524,3415,34,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,120,DEKAR,17,2040,Avrenning
+2024,Innlandet,3415,999530524,3415,34,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,182,DEKAR,424,77168,Avrenning
+2024,Rogaland,1108,999530478,1108,102,40,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,181,DEKAR,5,905,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1108,999530478,1108,102,40,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,10,1610,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1108,999530478,1108,102,40,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,1,161,Regionalt prioriterte kulturlandskap
+2024,Vestland,4644,999530214,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1645,49350,Opprettholde kulturlandskapet
+2024,Vestland,4644,999530214,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,161,5635,Opprettholde kulturlandskapet
+2024,Vestland,4649,999529127,4649,83,5,0,Kulturlandskap,Drift av bratt fruktareal,Overflatedyrka og fulldyrka 1:5,867,DEKAR,3,2601,Regionalt prioriterte kulturlandskap
+2024,Østfold Buskerud Oslo og Akershus,3314,999528090,3314,41,1,0,Biologisk mangfold,Soner for pollinerende insekter,Egen stripe - generell frøblanding,10,METER,1863,18630,Prioriterte naturverdier
+2024,Østfold Buskerud Oslo og Akershus,3314,999528090,3314,41,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,94,11280,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999528090,3314,41,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,64,7680,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999528090,3314,41,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,120,DEKAR,137,16440,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999528090,3314,41,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,210,DEKAR,177,37170,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999528090,3314,41,1,0,Avrenning til vann,Grasdekte vannveier i åker, korn m.m.,Prioriterte områder,35,METER,213,7455,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999528090,3314,41,1,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,21,METER,1867,39207,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3314,999528090,3314,41,1,0,Avrenning til vann,Direktesådd høstkorn og høstoljevekster, direktesådd,Prioriterte områder,210,DEKAR,125,26250,Avrenning
+2024,Innlandet,3432,999523544,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,2511,80352,Opprettholde kulturlandskapet
+2024,Innlandet,3432,999523544,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,217,15190,Opprettholde kulturlandskapet
+2024,Trøndelag,5059,999522955,5059,557,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,180,DEKAR,68,12240,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5059,999522955,5059,557,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,232,DEKAR,2,464,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5059,999522955,5059,557,1,0,Biologisk mangfold,Skjøtsel av biologisk verdifulle arealer,Beiting,137,DEKAR,200,27400,Prioriterte naturverdier
+2024,Trøndelag,5059,999522955,5059,557,1,0,Klimarådgivning,Klimarådgivning,To-til-en rådgiving,8448,ANTALL,1,8448,Klimarådgivning
+2024,Trøndelag,5059,999522955,5059,557,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, andre områder,74,DEKAR,67,4958,Avrenning
+2024,Trøndelag,5059,999522955,5059,557,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, andre områder,259,DEKAR,32,8288,Avrenning
+2024,Trøndelag,5059,999522955,5059,557,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1,med dråg, andre områder,111,DEKAR,122,13542,Avrenning
+2024,Trøndelag,5059,999522955,5059,557,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,21,DEKAR,580,12180,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5059,999522955,5059,557,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Nedmolding innen 18 timer i åpen åker,21,DEKAR,209,4389,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5059,999522955,5059,557,1,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,69,DEKAR,212,14628,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5059,999522955,5059,557,1,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Nedmolding innen 18 timer i åpen åker,69,DEKAR,166,11454,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5059,999522955,5059,557,1,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,59,DEKAR,378,22302,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5032,999522416,5032,129,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,180,DEKAR,11,1980,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5032,999522416,5032,129,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,232,DEKAR,5,1160,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5032,999522416,5032,129,1,0,Biologisk mangfold,Skjøtsel av biologisk verdifulle arealer,Beiting,137,DEKAR,36,4932,Prioriterte naturverdier
+2024,Trøndelag,5032,999522416,5032,129,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,106,DEKAR,201,21306,Avrenning
+2024,Trøndelag,5032,999522416,5032,129,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,143,DEKAR,21,3003,Avrenning
+2024,Trøndelag,5032,999522416,5032,129,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,21,DEKAR,202,4242,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5032,999522416,5032,129,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Nedmolding innen 18 timer i åpen åker,21,DEKAR,181,3801,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5032,999522416,5032,129,1,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Nedmolding innen 18 timer i åpen åker,69,DEKAR,100,6900,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5032,999522416,5032,129,1,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,59,DEKAR,100,5900,Miljøvennlig spredning av husdyrgjødsel
+2024,Østfold Buskerud Oslo og Akershus,3120,999514537,3120,123,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,15,1800,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3120,999514537,3120,123,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,67,8040,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3120,999514537,3120,123,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,120,DEKAR,38,4560,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3120,999514537,3120,123,1,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,30,DEKAR,109,3270,Miljøvennlig spredning av husdyrgjødsel
+2024,Østfold Buskerud Oslo og Akershus,3120,999514537,3120,123,1,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Nedmolding innen 2 timer i åpen åker,30,DEKAR,107,3210,Miljøvennlig spredning av husdyrgjødsel
+2024,Østfold Buskerud Oslo og Akershus,3120,999514537,3120,123,1,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur ved flere spredninger,30,DEKAR,151,4530,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4638,999513387,4638,7,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,30,13920,Regionalt prioriterte kulturlandskap
+2024,Vestland,4638,999513387,4638,7,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,11,8019,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5035,999513093,5035,196,4,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark,Beiting av verdifulle jordbrukslandskap i innmark,180,DEKAR,64,11520,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5035,999513093,5035,196,4,0,Biologisk mangfold,Skjøtsel av biologisk verdifulle arealer,Beiting,137,DEKAR,66,9042,Prioriterte naturverdier
+2024,Trøndelag,5035,999513093,5035,196,4,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,21,DEKAR,242,5082,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5035,999513093,5035,196,4,0,Utslipp til luft,Nedfelling av husdyrgjødsel,Voksende kultur,79,DEKAR,109,8611,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5055,999513018,5055,65,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,180,DEKAR,47,8460,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1506,999512704,1506,99,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,400,DEKAR,113,45200,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1506,999512704,1506,99,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,500,DEKAR,5,2500,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1506,999512704,1506,99,3,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,70,DEKAR,82,5740,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4640,999512097,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,516,15480,Opprettholde kulturlandskapet
+2024,Trøndelag,5021,999508693,,,,,Kulturlandskap,Drift av beitelag,Småfe,42,ANTALL_DYR,937,39354,Opprettholde kulturlandskapet
+2024,Innlandet,3423,999508200,3423,11,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,75,DEKAR,221,16575,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3423,999508200,3423,11,1,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,65,DEKAR,221,14365,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4631,999507999,4631,480,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,56,5040,Regionalt prioriterte kulturlandskap
+2024,Vestland,4639,999507697,4639,144,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,25,11600,Regionalt prioriterte kulturlandskap
+2024,Vestland,4639,999507697,4639,144,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,1,729,Regionalt prioriterte kulturlandskap
+2024,Vestland,4639,999507697,4639,144,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,65,5850,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1134,999507344,1134,43,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,181,DEKAR,12,2172,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1134,999507344,1134,43,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,181,DEKAR,16,2896,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1134,999507344,1134,43,2,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,42,6762,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1134,999507344,1134,43,2,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,83,13363,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1134,999507344,1134,43,2,0,Biologisk mangfold,Skjøtsel av styvingstrær,Skjøtsel av styvingstrær,600,ANTALL,5,3000,Prioriterte naturverdier
+2024,Rogaland,1134,999507344,1134,43,2,0,Avrenning til vann,Kantsone i eng,Andre områder,10,METER,683,6830,Avrenning
+2024,Rogaland,1134,999507344,1134,43,2,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,81,DEKAR,103,8343,Miljøvennlig spredning av husdyrgjødsel
+2024,Rogaland,1134,999507344,1134,43,2,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,51,DEKAR,103,5253,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3403,999507069,3403,25,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,182,DEKAR,23,4186,Avrenning
+2024,Innlandet,3403,999507069,3403,25,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,212,DEKAR,27,5724,Avrenning
+2024,Trøndelag,5035,999506968,5035,61,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,180,DEKAR,4,720,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5035,999506968,5035,61,1,0,Biologisk mangfold,Tilrettelegging av hekke- og beiteområder for fugl,Lav tilrettelegging,1056,DEKAR,2,2112,Prioriterte naturverdier
+2024,Trøndelag,5035,999506968,5035,61,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,106,DEKAR,16,1696,Avrenning
+2024,Trøndelag,5035,999506968,5035,61,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,280,DEKAR,9,2520,Avrenning
+2024,Trøndelag,5035,999506968,5035,61,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, andre områder,74,DEKAR,22,1628,Avrenning
+2024,Trøndelag,5035,999506968,5035,61,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,143,DEKAR,20,2860,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3316,999506755,3316,28,8,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,160,DEKAR,22,3520,Regionalt prioriterte kulturlandskap
+2024,Østfold Buskerud Oslo og Akershus,3316,999506755,3316,28,8,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Lav sats, hest/storfe,295,ANTALL_DYR,10,2950,Regionalt prioriterte kulturlandskap
+2024,Østfold Buskerud Oslo og Akershus,3316,999506755,3316,28,8,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,27,3240,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3316,999506755,3316,28,8,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,22,2640,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3316,999506755,3316,28,8,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,210,DEKAR,4,840,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3316,999506755,3316,28,8,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,210,DEKAR,9,1890,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3316,999506755,3316,28,8,0,Avrenning til vann,Gras på arealer utsatt for flom og erosjon,Prioriterte områder,240,DEKAR,15,3600,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3316,999506755,3316,28,8,0,Avrenning til vann,Ingen jordarbeiding på flomutsatte arealer,Prioriterte områder,120,DEKAR,10,1200,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3316,999506755,3316,28,8,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Nedmolding innen 2 timer i åpen åker,30,DEKAR,102,3060,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3430,999478794,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,1140,36480,Opprettholde kulturlandskapet
+2024,Innlandet,3430,999478794,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,272,19040,Opprettholde kulturlandskapet
+2024,Vestland,4617,999453694,4617,127,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,181,9000,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5029,999405436,5029,76,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,106,DEKAR,78,8268,Avrenning
+2024,Trøndelag,5029,999405436,5029,76,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,116,DEKAR,22,2552,Avrenning
+2024,Trøndelag,5029,999405436,5029,76,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,180,DEKAR,62,11160,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3226,999398316,3226,128,4,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,75,9000,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3226,999398316,3226,128,4,0,Avrenning til vann,Ingen jordarbeiding på flomutsatte arealer,Prioriterte områder,120,DEKAR,114,13680,Avrenning
+2024,Innlandet,3418,999398189,3418,118,84,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Nedmolding innen 2 timer i åpen åker,90,DEKAR,78,7020,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3418,999398189,3418,118,84,0,Utslipp til luft,Nedfelling av husdyrgjødsel,Voksende kultur,90,DEKAR,94,8460,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3454,999342485,3454,72,2,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark, dekar,Beiting av verdifulle jordbrukslandskap i innmark, dekar,125,DEKAR,74,9250,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3454,999342485,3454,72,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,129,16125,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3454,999342485,3454,72,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,3,375,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3454,999342485,3454,72,2,0,Biologisk mangfold,Slått av slåttemark,Lokalt viktig,1700,DEKAR,24,40800,Utvalgte naturtyper
+2024,Innlandet,3454,999342485,3454,72,2,0,Biologisk mangfold,Skjøtsel av trua naturtyper,Beiting,200,DEKAR,25,5000,Prioriterte naturverdier
+2024,Innlandet,3454,999342485,3454,72,2,0,Biologisk mangfold,Skjøtsel av trua naturtyper,Slått/rydding,1700,DEKAR,5,8500,Prioriterte naturverdier
+2024,Innlandet,3454,999342485,3454,72,2,0,Kulturminner og kulturmiljøer,Drift av seter,Levering til meieri, 6 uker eller mer,138000,ANDEL,1,138000,Setring
+2024,Innlandet,3454,999342485,3454,72,2,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Beiting,150,DEKAR,31,3838,095238,Nyere tids kulturminner
+2024,Innlandet,3454,999342485,3454,72,2,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Slått/rydding,150,DEKAR,53,6561,904762,Nyere tids kulturminner
+2024,Vestland,4634,999342353,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,406,12180,Opprettholde kulturlandskapet
+2024,Trøndelag,5037,999342345,5037,298,7,0,Kulturminner og kulturmiljøer,Skjøtsel av automatisk fredete kulturminner,Beiting,264,DEKAR,1,264,Automatisk fredede kulturminner
+2024,Trøndelag,5037,999342345,5037,298,7,0,Kulturminner og kulturmiljøer,Skjøtsel av automatisk fredete kulturminner,Slått,1373,DEKAR,1,1373,Automatisk fredede kulturminner
+2024,Trøndelag,5037,999342345,5037,298,7,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,69,DEKAR,298,20562,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3454,999340741,3454,80,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,18,2250,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3454,999340741,3454,80,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,1,125,Regionalt prioriterte kulturlandskap
+2024,Østfold Buskerud Oslo og Akershus,301,999340717,301,60,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark,Beiting av verdifulle jordbrukslandskap i innmark,200,DEKAR,8,1600,Regionalt prioriterte kulturlandskap
+2024,Østfold Buskerud Oslo og Akershus,301,999340717,301,60,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,95,11400,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,301,999340717,301,60,1,0,Avrenning til vann,Gras på arealer utsatt for flom og erosjon,Prioriterte områder,240,DEKAR,2,480,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,301,999340717,301,60,1,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,21,METER,239,5019,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,301,999340717,301,60,1,0,Avrenning til vann,Fangdam,Prioriterte områder,755,DEKAR,1,755,Avrenning
+2024,Innlandet,3433,999338801,3433,24,4,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,28,3500,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3433,999338801,3433,24,4,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,2,250,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3433,999338801,3433,24,4,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, andre områder,150,DEKAR,3,450,Avrenning
+2024,Innlandet,3433,999338801,3433,24,4,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1,med dråg, andre områder,180,DEKAR,11,1980,Avrenning
+2024,Innlandet,3433,999338801,3433,24,4,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,75,DEKAR,173,12975,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4615,999337929,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1508,45240,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1539,999337716,,,,,Kulturlandskap,Drift av beitelag,Småfe,20,ANTALL_DYR,1840,36800,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1539,999337716,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,21,525,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3228,999336701,3228,110,1,0,Avrenning til vann,Gras på arealer utsatt for flom og erosjon,Prioriterte områder,240,DEKAR,56,13440,Avrenning
+2024,Trøndelag,5041,999336671,,,,,Kulturlandskap,Drift av beitelag,Småfe,42,ANTALL_DYR,1292,54264,Opprettholde kulturlandskapet
+2024,Trøndelag,5041,999336671,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,85,ANTALL_DYR,25,2125,Opprettholde kulturlandskapet
+2024,Vestfold og Telemark,3909,999336566,3909,4018,10,0,Jord og jordhelse,Spredning av biokull,Spredning av biokull,15,KG,1000,15000,Jordhelse og karbonlagring
+2024,Vestland,4651,999336388,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,491,14730,Opprettholde kulturlandskapet
+2024,Vestland,4651,999336388,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,55,1925,Opprettholde kulturlandskapet
+2024,Innlandet,3432,999336027,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,1871,59872,Opprettholde kulturlandskapet
+2024,Innlandet,3432,999336027,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,454,31780,Opprettholde kulturlandskapet
+2024,Innlandet,3427,999335934,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,137,4384,Opprettholde kulturlandskapet
+2024,Innlandet,3427,999335934,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,477,33390,Opprettholde kulturlandskapet
+2024,Innlandet,3429,999335632,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,1811,57952,Opprettholde kulturlandskapet
+2024,Innlandet,3429,999335632,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,24,1680,Opprettholde kulturlandskapet
+2024,Vestland,4638,999335306,4638,79,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,99,45936,Regionalt prioriterte kulturlandskap
+2024,Vestland,4638,999335306,4638,79,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,42,30618,Regionalt prioriterte kulturlandskap
+2024,Vestland,4638,999335306,4638,79,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,51,4590,Regionalt prioriterte kulturlandskap
+2024,Vestfold og Telemark,4036,999334563,4036,17,1,0,Kulturlandskap,Beiting i kombinasjon med beitepussing av bratt areal,Overflatedyrka og fulldyrka 1:5,64,DEKAR,23,1472,Regionalt prioriterte kulturlandskap
+2024,Vestfold og Telemark,4036,999334563,4036,17,1,0,Kulturlandskap,Beiting i kombinasjon med beitepussing av bratt areal,Overflatedyrka og fulldyrka 1:3,106,DEKAR,5,530,Regionalt prioriterte kulturlandskap
+2024,Vestfold og Telemark,4036,999334563,4036,17,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark,Beiting av verdifulle jordbrukslandskap i innmark,85,DEKAR,144,12240,Regionalt prioriterte kulturlandskap
+2024,Troms og Finnmark,5524,999334326,5524,40,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,310,DEKAR,10,3100,Regionalt prioriterte kulturlandskap
+2024,Troms og Finnmark,5524,999334326,5524,40,2,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,310,DEKAR,2,620,Regionalt prioriterte kulturlandskap
+2024,Troms og Finnmark,5524,999334326,5524,40,2,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,310,DEKAR,1,310,Regionalt prioriterte kulturlandskap
+2024,Troms og Finnmark,5524,999334326,5524,40,2,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Hest/storfe,155,ANTALL_DYR,45,6975,Regionalt prioriterte kulturlandskap
+2024,Troms og Finnmark,5524,999334326,5524,40,2,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,50,DEKAR,99,4950,Miljøvennlig spredning av husdyrgjødsel
+2024,Troms og Finnmark,5524,999334326,5524,40,2,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Nedmolding innen 18 timer i åpen åker,125,DEKAR,52,6500,Miljøvennlig spredning av husdyrgjødsel
+2024,Troms og Finnmark,5524,999334326,5524,40,2,0,Utslipp til luft,Nedfelling av husdyrgjødsel,Voksende kultur,165,DEKAR,500,82500,Miljøvennlig spredning av husdyrgjødsel
+2024,Troms og Finnmark,5524,999334326,5524,40,2,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,90,DEKAR,498,44820,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4618,999332811,4618,324,4,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,5,2320,Regionalt prioriterte kulturlandskap
+2024,Vestland,4618,999332811,4618,324,4,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,1,729,Regionalt prioriterte kulturlandskap
+2024,Vestland,4618,999332811,4618,324,4,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,43,3870,Regionalt prioriterte kulturlandskap
+2024,Vestland,4618,999332811,4618,324,4,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,50,DEKAR,29,1450,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4618,999332811,4618,324,4,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,310,DEKAR,29,8990,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4651,999332714,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,3118,93540,Opprettholde kulturlandskapet
+2024,Vestland,4651,999332714,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,257,8995,Opprettholde kulturlandskapet
+2024,Vestland,4611,999331793,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,503,15090,Opprettholde kulturlandskapet
+2024,Vestland,4611,999331793,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,11,385,Opprettholde kulturlandskapet
+2024,Innlandet,3431,999331653,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,403,12896,Opprettholde kulturlandskapet
+2024,Innlandet,3431,999331653,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,50,3500,Opprettholde kulturlandskapet
+2024,Vestland,4612,999331572,4612,9,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,35,3150,Regionalt prioriterte kulturlandskap
+2024,Vestland,4649,999331351,4649,131,6,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,45,20880,Regionalt prioriterte kulturlandskap
+2024,Vestland,4649,999331351,4649,131,6,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,35,25515,Regionalt prioriterte kulturlandskap
+2024,Vestland,4649,999331351,4649,131,6,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,31,2790,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1114,999330878,1114,14,3,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,37,5957,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1114,999330878,1114,14,3,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,71,11431,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1114,999330878,1114,14,3,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,81,DEKAR,124,10044,Miljøvennlig spredning av husdyrgjødsel
+2024,Rogaland,1114,999330878,1114,14,3,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,51,DEKAR,124,6324,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,1577,999330738,,,,,Kulturlandskap,Drift av beitelag,Småfe,20,ANTALL_DYR,388,7760,Opprettholde kulturlandskapet
+2024,Innlandet,3450,999330592,3450,31,17,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark, dekar,Beiting av verdifulle jordbrukslandskap i innmark, dekar,125,DEKAR,87,10875,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3450,999330592,3450,31,17,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,40,5000,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3450,999330592,3450,31,17,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,4,500,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3450,999330592,3450,31,17,0,Biologisk mangfold,Slått av slåttemark,Viktig,1700,DEKAR,2,3400,Utvalgte naturtyper
+2024,Innlandet,3450,999330592,3450,31,17,0,Biologisk mangfold,Skjøtsel av trua naturtyper,Beiting,200,DEKAR,56,11200,Prioriterte naturverdier
+2024,Innlandet,3450,999330592,3450,31,17,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Slått/rydding,150,DEKAR,22,3300,Nyere tids kulturminner
+2024,Innlandet,3450,999330592,3450,31,17,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,75,DEKAR,201,15075,Miljøvennlig spredning av husdyrgjødsel
+2024,Troms og Finnmark,5622,999330363,5622,21,259,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,50,DEKAR,85,4250,Miljøvennlig spredning av husdyrgjødsel
+2024,Troms og Finnmark,5622,999330363,5622,21,259,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,165,DEKAR,460,75900,Miljøvennlig spredning av husdyrgjødsel
+2024,Troms og Finnmark,5622,999330363,5622,21,259,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Nedmolding innen 18 timer i åpen åker,165,DEKAR,79,13035,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestfold og Telemark,3905,999330312,3905,394,9,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,95,DEKAR,4,380,Avrenning
+2024,Vestfold og Telemark,3905,999330312,3905,394,9,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,130,DEKAR,98,12740,Avrenning
+2024,Vestfold og Telemark,3905,999330312,3905,394,9,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,220,DEKAR,19,4180,Avrenning
+2024,Vestfold og Telemark,3905,999330312,3905,394,9,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 4, prioriterte områder,275,DEKAR,32,8800,Avrenning
+2024,Vestfold og Telemark,3905,999330312,3905,394,9,0,Avrenning til vann,Gras på arealer utsatt for flom og erosjon,Prioriterte områder,91,DEKAR,191,17381,Avrenning
+2024,Vestfold og Telemark,3905,999330312,3905,394,9,0,Avrenning til vann,Grasdekt kantsone i åker, potet/grønnsaker,Prioriterte områder,41,METER,830,34030,Avrenning
+2024,Vestfold og Telemark,3303,999330312,3905,394,9,0,Avrenning til vann,Gras på arealer utsatt for flom og erosjon,Prioriterte områder,240,DEKAR,28,6720,Avrenning
+2024,Vestfold og Telemark,3303,999330312,3905,394,9,0,Avrenning til vann,Grasdekte vannveier i åker, potet/grønnsaker,Prioriterte områder,35,METER,813,28455,Avrenning
+2024,Vestfold og Telemark,3303,999330312,3905,394,9,0,Avrenning til vann,Grasdekt kantsone i åker, potet/grønnsaker,Prioriterte områder,21,METER,1169,24549,Avrenning
+2024,Vestfold og Telemark,3303,999330312,3905,394,9,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Prioriterte områder,21,METER,1168,24528,Avrenning
+2024,Møre og Romsdal,1547,999329438,1579,53,4,0,Biologisk mangfold,Slått av slåttemark,Viktig,1000,DEKAR,2,2000,Utvalgte naturtyper
+2024,Møre og Romsdal,1547,999329438,1579,53,4,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,70,DEKAR,133,9310,Miljøvennlig spredning av husdyrgjødsel
+2024,Nordland,1868,999326544,1868,81,1,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,299,DEKAR,1,299,Regionalt prioriterte kulturlandskap
+2024,Nordland,1868,999326544,1868,81,1,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,299,DEKAR,1,299,Regionalt prioriterte kulturlandskap
+2024,Nordland,1868,999326544,1868,81,1,0,Biologisk mangfold,Skjøtsel av biologisk verdifulle arealer,Beiting,399,DEKAR,151,15000,Prioriterte naturverdier
+2024,Nordland,1868,999326544,1868,81,1,0,Biologisk mangfold,Skjøtsel av trua naturtyper,Beiting,399,DEKAR,187,15000,Prioriterte naturverdier
+2024,Nordland,1868,999326544,1868,81,1,0,Biologisk mangfold,Friarealer for gås i Trøndelag og Nordland,Lavt beitetrykk,230,DEKAR,10,2300,Prioriterte naturverdier
+2024,Nordland,1868,999326544,1868,81,1,0,Kulturminner og kulturmiljøer,Skjøtsel av automatisk fredete kulturminner,Beiting,999,DEKAR,1,999,Automatisk fredede kulturminner
+2024,Nordland,1868,999326544,1868,81,1,0,Kulturminner og kulturmiljøer,Skjøtsel av enkeltstående automatisk fredete kulturminner,Beiting,999,ANTALL,3,2997,Automatisk fredede kulturminner
+2024,Rogaland,1114,999323197,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,1218,30450,Opprettholde kulturlandskapet
+2024,Innlandet,3454,999323081,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,2240,71680,Opprettholde kulturlandskapet
+2024,Innlandet,3454,999323081,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,49,3430,Opprettholde kulturlandskapet
+2024,Vestland,4650,999323006,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,388,11640,Opprettholde kulturlandskapet
+2024,Vestland,4650,999323006,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,54,1890,Opprettholde kulturlandskapet
+2024,Vestland,4644,999322883,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,2888,86640,Opprettholde kulturlandskapet
+2024,Vestland,4644,999322883,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,29,1015,Opprettholde kulturlandskapet
+2024,Østfold Buskerud Oslo og Akershus,3312,999321739,3312,160,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,11,1320,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3312,999321739,3312,160,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,156,18720,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3312,999321739,3312,160,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,210,DEKAR,20,4200,Avrenning
+2024,Trøndelag,5059,999321690,5059,606,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,180,DEKAR,38,6840,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5059,999321690,5059,606,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,232,DEKAR,2,464,Regionalt prioriterte kulturlandskap
+2024,Vestland,4647,999317014,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,299,8970,Opprettholde kulturlandskapet
+2024,Troms og Finnmark,5510,999316778,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1496,44880,Opprettholde kulturlandskapet
+2024,Vestland,4651,999316719,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1726,51780,Opprettholde kulturlandskapet
+2024,Vestland,4651,999316719,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,97,3395,Opprettholde kulturlandskapet
+2024,Vestland,4650,999316654,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,670,20100,Opprettholde kulturlandskapet
+2024,Vestland,4650,999316654,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,27,945,Opprettholde kulturlandskapet
+2024,Vestland,4651,999316581,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,881,26430,Opprettholde kulturlandskapet
+2024,Vestland,4651,999316581,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,91,3185,Opprettholde kulturlandskapet
+2024,Vestland,4641,999316549,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,986,29580,Opprettholde kulturlandskapet
+2024,Vestland,4641,999316549,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,29,1015,Opprettholde kulturlandskapet
+2024,Vestland,4626,999316514,4626,203,2,0,Biologisk mangfold,Beiting av kystlynghei,Viktig,20,DEKAR,1698,10000,Utvalgte naturtyper
+2024,Vestland,4626,999316514,4626,203,2,0,Biologisk mangfold,Brenning av kystlynghei,Brenning av kystlynghei,400,DEKAR,23,9200,Utvalgte naturtyper
+2024,Trøndelag,5035,999316492,5035,247,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,280,DEKAR,16,4480,Avrenning
+2024,Trøndelag,5035,999316492,5035,247,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,21,DEKAR,54,1134,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5035,999316492,5035,247,1,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,69,DEKAR,134,9246,Miljøvennlig spredning av husdyrgjødsel
+2024,Trøndelag,5035,999316492,5035,247,1,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,59,DEKAR,134,7906,Miljøvennlig spredning av husdyrgjødsel
+2024,Nordland,1833,999316441,1833,176,4,0,Avrenning til vann,Kantsone i eng,Prioriterte områder,14,7,METER,779,11451,3,Avrenning
+2024,Nordland,1833,999316441,1833,176,4,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,39,5,DEKAR,170,6715,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4630,999316409,4630,30,6,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,5,2320,Regionalt prioriterte kulturlandskap
+2024,Vestland,4630,999316409,4630,30,6,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,8,5832,Regionalt prioriterte kulturlandskap
+2024,Vestland,4630,999316409,4630,30,6,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,37,3330,Regionalt prioriterte kulturlandskap
+2024,Vestland,4630,999316409,4630,30,6,0,Avrenning til vann,Kantsone i eng,Prioriterte områder,25,METER,235,5875,Avrenning
+2024,Nordland,1853,999316328,,,,,Kulturlandskap,Drift av beitelag,Småfe,15,ANTALL_DYR,2794,41910,Opprettholde kulturlandskapet
+2024,Nordland,1853,999316328,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,360,9000,Opprettholde kulturlandskapet
+2024,Vestland,4643,999316174,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,664,19920,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1576,999315623,1576,57,2,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,70,DEKAR,98,6860,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3422,999315437,3422,36,6,0,Biologisk mangfold,Soner for pollinerende insekter,Egen stripe - generell frøblanding,10,METER,3000,30000,Prioriterte naturverdier
+2024,Innlandet,3422,999315437,3422,36,6,0,Biologisk mangfold,Soner for pollinerende insekter,Kombinert med vannmiljøtiltak - generell frøblanding,5,METER,328,1640,Prioriterte naturverdier
+2024,Innlandet,3422,999315437,3422,36,6,0,Jord og jordhelse,Fangvekster som underkultur,Hovedvekst korn/oljevekster/belgvekster/fÃ´rmais,200,DEKAR,230,46000,Jordhelse og karbonlagring
+2024,Innlandet,3422,999315437,3422,36,6,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Beiting,150,DEKAR,80,10400,Nyere tids kulturminner
+2024,Innlandet,3422,999315437,3422,36,6,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, andre områder,150,DEKAR,625,93750,Avrenning
+2024,Innlandet,3422,999315437,3422,36,6,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, andre områder,205,DEKAR,137,28085,Avrenning
+2024,Innlandet,3422,999315437,3422,36,6,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1,med dråg, andre områder,180,DEKAR,41,7380,Avrenning
+2024,Innlandet,3422,999315437,3422,36,6,0,Avrenning til vann,Grasdekt kantsone i åker, korn m.m.,Andre områder,20,METER,224,4480,Avrenning
+2024,Innlandet,3422,999315437,3422,36,6,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,90,DEKAR,115,10350,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3422,999315437,3422,36,6,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Nedmolding innen 2 timer i åpen åker,90,DEKAR,228,20520,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3422,999315437,3422,36,6,0,Utslipp til luft,Nedfelling av husdyrgjødsel,Voksende kultur,90,DEKAR,169,15210,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3422,999315437,3422,36,6,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,65,DEKAR,262,17030,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3442,999315402,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,383,26810,Opprettholde kulturlandskapet
+2024,Innlandet,3438,999315291,3438,123,9,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,61,7625,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3438,999315291,3438,123,9,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,25,3125,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3438,999315291,3438,123,9,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Slått/rydding,150,DEKAR,72,10400,Nyere tids kulturminner
+2024,Innlandet,3452,999314899,3452,64,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,138,17250,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3452,999314899,3452,64,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,14,1750,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3452,999314899,3452,64,3,0,Kulturminner og kulturmiljøer,Drift av seter,Levering til meieri, 6 uker eller mer,138000,ANDEL,1,138000,Setring
+2024,Innlandet,3452,999314899,3452,64,3,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Slått/rydding,150,DEKAR,55,8250,Nyere tids kulturminner
+2024,Innlandet,3452,999314899,3452,64,3,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,90,DEKAR,640,57600,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3452,999314899,3452,64,3,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,65,DEKAR,606,39390,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4622,999314848,4622,35,24,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,16,7424,Regionalt prioriterte kulturlandskap
+2024,Vestland,4622,999314848,4622,35,24,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,6,4374,Regionalt prioriterte kulturlandskap
+2024,Vestland,4622,999314848,4622,35,24,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,50,DEKAR,48,2400,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4622,999314848,4622,35,24,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,310,DEKAR,35,10850,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3441,999311164,3441,132,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,5,625,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3441,999311164,3441,132,2,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Slått/rydding,150,DEKAR,20,3000,Nyere tids kulturminner
+2024,Innlandet,3441,999311164,3441,132,2,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,75,DEKAR,75,5625,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3441,999311164,3441,132,2,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,65,DEKAR,75,4875,Miljøvennlig spredning av husdyrgjødsel
+2024,Østfold Buskerud Oslo og Akershus,3120,999310737,3120,41,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,120,DEKAR,19,2280,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3120,999310737,3120,41,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,120,DEKAR,6,720,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3120,999310737,3120,41,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,120,DEKAR,1,120,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3120,999310737,3120,41,2,0,Avrenning til vann,Ingen jordarbeiding på flomutsatte arealer,Prioriterte områder,120,DEKAR,25,3000,Avrenning
+2024,Østfold Buskerud Oslo og Akershus,3328,999310222,3328,90,9,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,160,DEKAR,5,800,Regionalt prioriterte kulturlandskap
+2024,Østfold Buskerud Oslo og Akershus,3328,999310222,3328,90,9,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Lav sats, hest/storfe,295,ANTALL_DYR,15,4425,Regionalt prioriterte kulturlandskap
+2024,Østfold Buskerud Oslo og Akershus,3328,999310222,3328,90,9,0,Kulturlandskap,Slått av verdifulle jordbrukslandskap,Slått av verdifulle jordbrukslandskap,55,DEKAR,77,4235,Regionalt prioriterte kulturlandskap
+2024,Agder,4226,999309305,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,1044,26100,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1577,999309194,,,,,Kulturlandskap,Drift av beitelag,Småfe,20,ANTALL_DYR,630,12600,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1577,999309194,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,43,1075,Opprettholde kulturlandskapet
+2024,Innlandet,3426,999309119,3426,10,4,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,17,2125,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3426,999309119,3426,10,4,0,Kulturminner og kulturmiljøer,Drift av seter,Levering til meieri, 6 uker eller mer,138000,ANDEL,1,138000,Setring
+2024,Innlandet,3426,999309119,3426,10,4,0,Kulturminner og kulturmiljøer,Skjøtsel av kulturhistoriske områder,Beiting,150,DEKAR,20,3000,Nyere tids kulturminner
+2024,Innlandet,3426,999309119,3426,10,4,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,90,DEKAR,194,17460,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3426,999309119,3426,10,4,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Nedmolding innen 2 timer i åpen åker,90,DEKAR,34,3060,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3426,999309119,3426,10,4,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,65,DEKAR,228,14820,Miljøvennlig spredning av husdyrgjødsel
+2024,Rogaland,1160,999309062,1160,12,6,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,181,DEKAR,6,1086,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1160,999309062,1160,12,6,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,181,DEKAR,1,181,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1160,999309062,1160,12,6,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,7,1127,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1160,999309062,1160,12,6,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,30,4830,Regionalt prioriterte kulturlandskap
+2024,Vestfold og Telemark,3907,999309046,3907,217,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,95,DEKAR,11,1045,Avrenning
+2024,Vestfold og Telemark,3907,999309046,3907,217,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,130,DEKAR,25,3250,Avrenning
+2024,Vestfold og Telemark,3907,999309046,3907,217,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,220,DEKAR,29,6380,Avrenning
+2024,Vestfold og Telemark,3907,999309046,3907,217,2,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,220,DEKAR,29,6380,Avrenning
+2024,Vestland,4650,999308732,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,225,6750,Opprettholde kulturlandskapet
+2024,Vestland,4650,999308732,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,213,7455,Opprettholde kulturlandskapet
+2024,Vestland,4639,999308570,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,7072,212160,Opprettholde kulturlandskapet
+2024,Vestland,4639,999308570,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,664,23240,Opprettholde kulturlandskapet
+2024,Trøndelag,5027,999308058,,,,,Kulturlandskap,Drift av beitelag,Småfe,42,ANTALL_DYR,2140,89880,Opprettholde kulturlandskapet
+2024,Trøndelag,5027,999308058,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,85,ANTALL_DYR,297,25245,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1560,999307876,,,,,Kulturlandskap,Drift av beitelag,Småfe,20,ANTALL_DYR,1027,20540,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1577,999307744,,,,,Kulturlandskap,Drift av beitelag,Småfe,20,ANTALL_DYR,31,620,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1577,999307744,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,184,4600,Opprettholde kulturlandskapet
+2024,Trøndelag,5025,999307701,,,,,Kulturlandskap,Drift av beitelag,Småfe,42,ANTALL_DYR,2280,95760,Opprettholde kulturlandskapet
+2024,Trøndelag,5025,999307701,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,85,ANTALL_DYR,136,11560,Opprettholde kulturlandskapet
+2024,Vestland,4647,999307663,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,2023,60690,Opprettholde kulturlandskapet
+2024,Vestland,4647,999307663,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,316,11060,Opprettholde kulturlandskapet
+2024,Vestland,4647,999307558,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,309,9270,Opprettholde kulturlandskapet
+2024,Vestland,4647,999307558,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,64,2240,Opprettholde kulturlandskapet
+2024,Vestland,4618,999307507,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,39,1170,Opprettholde kulturlandskapet
+2024,Vestland,4611,999307191,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,395,11850,Opprettholde kulturlandskapet
+2024,Vestland,4611,999307191,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,34,1190,Opprettholde kulturlandskapet
+2024,Innlandet,3446,999306896,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,6481,207392,Opprettholde kulturlandskapet
+2024,Vestland,4647,999305199,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,812,24360,Opprettholde kulturlandskapet
+2024,Vestland,4647,999305199,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,227,7945,Opprettholde kulturlandskapet
+2024,Innlandet,3454,999305148,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,1103,35296,Opprettholde kulturlandskapet
+2024,Innlandet,3454,999305148,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,44,3080,Opprettholde kulturlandskapet
+2024,Troms og Finnmark,5501,999305040,5501,136,1,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,50,ANTALL_DYR,245,12250,Regionalt prioriterte kulturlandskap
+2024,Troms og Finnmark,5501,999305040,5501,136,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,50,DEKAR,115,5750,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3454,999304915,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,1510,48320,Opprettholde kulturlandskapet
+2024,Innlandet,3454,999304915,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,272,19040,Opprettholde kulturlandskapet
+2024,Vestland,4618,999304834,4618,162,6,0,Kulturlandskap,Drift av bratt fruktareal,Overflatedyrka og fulldyrka 1:5,867,DEKAR,4,3468,Regionalt prioriterte kulturlandskap
+2024,Vestland,4618,999304834,4618,162,6,0,Kulturlandskap,Drift av bratt fruktareal,Overflatedyrka og fulldyrka 1:3,1301,DEKAR,5,6505,Regionalt prioriterte kulturlandskap
+2024,Vestland,4611,999304818,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1118,33540,Opprettholde kulturlandskapet
+2024,Vestland,4618,999304214,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,931,27930,Opprettholde kulturlandskapet
+2024,Vestland,4618,999304214,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,9,315,Opprettholde kulturlandskapet
+2024,Rogaland,1133,999304125,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,1164,29100,Opprettholde kulturlandskapet
+2024,Innlandet,3439,999303846,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,3009,96288,Opprettholde kulturlandskapet
+2024,Innlandet,3439,999303846,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,142,9940,Opprettholde kulturlandskapet
+2024,Rogaland,1146,999303641,1146,185,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,181,DEKAR,1,181,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1146,999303641,1146,185,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,181,DEKAR,2,362,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1146,999303641,1146,185,2,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,15,2415,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1146,999303641,1146,185,2,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,22,3542,Regionalt prioriterte kulturlandskap
+2024,Møre og Romsdal,1547,999303633,1579,56,2,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,70,DEKAR,110,7700,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3433,999303439,3433,101,3,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i innmark, dekar,Beiting av verdifulle jordbrukslandskap i innmark, dekar,125,DEKAR,50,6250,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3433,999303439,3433,101,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,125,DEKAR,58,7250,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3433,999303439,3433,101,3,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,125,DEKAR,5,625,Regionalt prioriterte kulturlandskap
+2024,Innlandet,3433,999303439,3433,101,3,0,Biologisk mangfold,Skjøtsel av trua naturtyper,Beiting,200,DEKAR,30,6000,Prioriterte naturverdier
+2024,Innlandet,3433,999303439,3433,101,3,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,75,DEKAR,32,2400,Miljøvennlig spredning av husdyrgjødsel
+2024,Rogaland,1144,999303382,1144,20,1,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,13,2093,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1144,999303382,1144,20,1,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,16,2576,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1144,999303382,1144,20,1,0,Biologisk mangfold,Skjøtsel av trua naturtyper,Beiting,500,DEKAR,159,60000,Prioriterte naturverdier
+2024,Rogaland,1144,999303382,1144,20,1,0,Friluftsliv,Vedlikehold av turstier i jordbrukslandskapet,Høy tilrettelegging,9,METER,549,4941,Turmuligheter og tilgjengelighet
+2024,Vestfold og Telemark,3909,999303331,3909,4135,3,0,Biologisk mangfold,Soner for pollinerende insekter,Egen stripe - generell frøblanding,9,METER,74,666,Prioriterte naturverdier
+2024,Vestfold og Telemark,3909,999303331,3909,4135,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,95,DEKAR,52,4940,Avrenning
+2024,Vestfold og Telemark,3909,999303331,3909,4135,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, prioriterte områder,130,DEKAR,21,2730,Avrenning
+2024,Vestfold og Telemark,3909,999303331,3909,4135,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 3, prioriterte områder,220,DEKAR,2,440,Avrenning
+2024,Vestfold og Telemark,3909,999303331,3909,4135,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,130,DEKAR,40,5200,Avrenning
+2024,Vestfold og Telemark,3909,999303331,3909,4135,3,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 2, med dråg, prioriterte områder,220,DEKAR,1,220,Avrenning
+2024,Møre og Romsdal,1577,999303218,,,,,Kulturlandskap,Drift av beitelag,Småfe,20,ANTALL_DYR,461,9220,Opprettholde kulturlandskapet
+2024,Møre og Romsdal,1577,999303218,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,135,3375,Opprettholde kulturlandskapet
+2024,Rogaland,1108,999303153,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,776,19400,Opprettholde kulturlandskapet
+2024,Trøndelag,5047,999302882,,,,,Kulturlandskap,Drift av beitelag,Småfe,42,ANTALL_DYR,3960,166320,Opprettholde kulturlandskapet
+2024,Trøndelag,5047,999302882,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,85,ANTALL_DYR,127,10795,Opprettholde kulturlandskapet
+2024,Trøndelag,5026,999302718,,,,,Kulturlandskap,Drift av beitelag,Småfe,42,ANTALL_DYR,1195,50190,Opprettholde kulturlandskapet
+2024,Trøndelag,5026,999302718,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,85,ANTALL_DYR,479,40715,Opprettholde kulturlandskapet
+2024,Vestland,4650,999302459,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1523,45690,Opprettholde kulturlandskapet
+2024,Vestland,4621,999302181,4621,114,7,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,69,32016,Regionalt prioriterte kulturlandskap
+2024,Vestland,4621,999302181,4621,114,7,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,18,13122,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5021,999301673,,,,,Kulturlandskap,Drift av beitelag,Småfe,42,ANTALL_DYR,2191,92022,Opprettholde kulturlandskapet
+2024,Trøndelag,5021,999301673,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,85,ANTALL_DYR,248,21080,Opprettholde kulturlandskapet
+2024,Vestland,4619,999301533,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1174,35220,Opprettholde kulturlandskapet
+2024,Vestland,4619,999301533,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,20,700,Opprettholde kulturlandskapet
+2024,Vestland,4649,999301517,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,924,27720,Opprettholde kulturlandskapet
+2024,Vestland,4649,999301517,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,229,8015,Opprettholde kulturlandskapet
+2024,Agder,4220,999301193,,,,,Kulturlandskap,Drift av beitelag,Småfe,25,ANTALL_DYR,534,13350,Opprettholde kulturlandskapet
+2024,Agder,4220,999301193,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,39,975,Opprettholde kulturlandskapet
+2024,Vestland,4602,999301134,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,579,17370,Opprettholde kulturlandskapet
+2024,Vestland,4602,999301134,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,273,9555,Opprettholde kulturlandskapet
+2024,Innlandet,3423,999300995,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,571,18272,Opprettholde kulturlandskapet
+2024,Innlandet,3423,999300995,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,70,ANTALL_DYR,64,4480,Opprettholde kulturlandskapet
+2024,Nordland,1871,999300936,1871,25,14,0,Biologisk mangfold,Friarealer for gås i Trøndelag og Nordland,Høyt beitetrykk,680,DEKAR,39,26520,Prioriterte naturverdier
+2024,Nordland,1871,999300936,1871,25,14,0,Biologisk mangfold,Friarealer for gås i Trøndelag og Nordland,Moderat beitetrykk,400,DEKAR,98,39200,Prioriterte naturverdier
+2024,Nordland,1871,999300936,1871,25,14,0,Biologisk mangfold,Friarealer for gås i Trøndelag og Nordland,Lavt beitetrykk,230,DEKAR,25,5750,Prioriterte naturverdier
+2024,Nordland,1871,999300936,1871,25,14,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Voksende kultur,39,5,DEKAR,440,17380,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4640,999299474,4640,202,8,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,27,12528,Regionalt prioriterte kulturlandskap
+2024,Vestland,4640,999299474,4640,202,8,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,15,10935,Regionalt prioriterte kulturlandskap
+2024,Vestland,4640,999299474,4640,202,8,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,67,6030,Regionalt prioriterte kulturlandskap
+2024,Vestland,4640,999299474,4640,202,8,0,Biologisk mangfold,Slått av slåttemark,Svært viktig,1250,DEKAR,48,50000,Utvalgte naturtyper
+2024,Vestland,4640,999299474,4640,202,8,0,Biologisk mangfold,Skjøtsel av styvingstrær,Skjøtsel av styvingstrær,500,ANTALL,16,8000,Prioriterte naturverdier
+2024,Nordland,1833,999299059,,,,,Kulturlandskap,Drift av beitelag,Småfe,15,ANTALL_DYR,794,11910,Opprettholde kulturlandskapet
+2024,Nordland,1833,999299059,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,98,2450,Opprettholde kulturlandskapet
+2024,Troms og Finnmark,5501,999298990,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1219,36570,Opprettholde kulturlandskapet
+2024,Nordland,1826,999298788,,,,,Kulturlandskap,Drift av beitelag,Småfe,15,ANTALL_DYR,11871,178065,Opprettholde kulturlandskapet
+2024,Nordland,1826,999298788,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,25,ANTALL_DYR,64,1600,Opprettholde kulturlandskapet
+2024,Vestland,4650,999298419,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,206,6180,Opprettholde kulturlandskapet
+2024,Vestland,4650,999298419,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,158,5530,Opprettholde kulturlandskapet
+2024,Trøndelag,5038,999298214,5038,119,12,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,106,DEKAR,83,8798,Avrenning
+2024,Trøndelag,5038,999298214,5038,119,12,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Nedmolding innen 18 timer i åpen åker,21,DEKAR,93,1953,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4631,999298133,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,109,3270,Opprettholde kulturlandskapet
+2024,Innlandet,3442,999298001,,,,,Kulturlandskap,Drift av beitelag,Småfe,32,ANTALL_DYR,3848,123136,Opprettholde kulturlandskapet
+2024,Innlandet,3418,999297587,3418,183,1,0,Utslipp til luft,Spredning av all husdyrgjødsel om våren/i vekstsesongen,Nedmolding innen 2 timer i åpen åker,90,DEKAR,212,19080,Miljøvennlig spredning av husdyrgjødsel
+2024,Vestland,4637,999297102,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,617,18510,Opprettholde kulturlandskapet
+2024,Vestland,4637,999297102,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,67,2345,Opprettholde kulturlandskapet
+2024,Troms og Finnmark,5512,999295924,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1217,36510,Opprettholde kulturlandskapet
+2024,Troms og Finnmark,5512,999295924,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,120,ANTALL_DYR,27,3240,Opprettholde kulturlandskapet
+2024,Vestland,4629,999292844,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,260,7800,Opprettholde kulturlandskapet
+2024,Vestland,4617,999292631,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,7205,216150,Opprettholde kulturlandskapet
+2024,Vestland,4617,999292631,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,164,5740,Opprettholde kulturlandskapet
+2024,Vestland,4638,999292445,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,1966,58980,Opprettholde kulturlandskapet
+2024,Vestland,4638,999292445,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,35,ANTALL_DYR,526,18410,Opprettholde kulturlandskapet
+2024,Vestland,4650,999292208,,,,,Kulturlandskap,Drift av beitelag,Småfe,30,ANTALL_DYR,55,1650,Opprettholde kulturlandskapet
+2024,Vestland,4624,999292178,4624,169,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,464,DEKAR,23,10672,Regionalt prioriterte kulturlandskap
+2024,Vestland,4624,999292178,4624,169,2,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,729,DEKAR,12,8748,Regionalt prioriterte kulturlandskap
+2024,Vestland,4624,999292178,4624,169,2,0,Kulturlandskap,Beiting av verdifulle jordbrukslandskap i utmark,Småfe,90,ANTALL_DYR,28,2520,Regionalt prioriterte kulturlandskap
+2024,Trøndelag,5041,999291597,,,,,Kulturlandskap,Drift av beitelag,Småfe,42,ANTALL_DYR,839,35238,Opprettholde kulturlandskapet
+2024,Trøndelag,5041,999291597,,,,,Kulturlandskap,Drift av beitelag,Hest/storfe,85,ANTALL_DYR,46,3910,Opprettholde kulturlandskapet
+2024,Vestland,4618,999291309,4618,174,23,0,Kulturlandskap,Drift av bratt fruktareal,Overflatedyrka og fulldyrka 1:5,867,DEKAR,19,16473,Regionalt prioriterte kulturlandskap
+2024,Vestland,4618,999291309,4618,174,23,0,Kulturlandskap,Drift av bratt fruktareal,Overflatedyrka og fulldyrka 1:3,1301,DEKAR,2,2602,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1133,999291023,1133,101,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:5,181,DEKAR,7,1267,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1133,999291023,1133,101,1,0,Kulturlandskap,Drift av bratt areal,Overflatedyrka og fulldyrka 1:3,181,DEKAR,1,181,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1133,999291023,1133,101,1,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:5,161,DEKAR,35,5635,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1133,999291023,1133,101,1,0,Kulturlandskap,Drift av bratt areal,Innmarksbeite 1:3,161,DEKAR,27,4347,Regionalt prioriterte kulturlandskap
+2024,Rogaland,1133,999291023,1133,101,1,0,Kulturminner og kulturmiljøer,Skjøtsel av enkeltstående automatisk fredete kulturminner,Beiting,500,ANTALL,25,12500,Automatisk fredede kulturminner
+2024,Rogaland,1133,999291023,1133,101,1,0,Friluftsliv,Vedlikehold av turstier i jordbrukslandskapet,Høy tilrettelegging,9,METER,1429,12861,Turmuligheter og tilgjengelighet
+2024,Innlandet,3442,999289193,3442,188,1,0,Klimarådgivning,Klimarådgivning,To-til-en rådgiving,8000,ANTALL,1,8000,Klimarådgivning
+2024,Innlandet,3442,999289193,3442,188,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, prioriterte områder,182,DEKAR,87,15834,Avrenning
+2024,Innlandet,3442,999289193,3442,188,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, andre områder,150,DEKAR,24,3600,Avrenning
+2024,Innlandet,3442,999289193,3442,188,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1, med dråg, prioriterte områder,212,DEKAR,274,58088,Avrenning
+2024,Innlandet,3442,999289193,3442,188,1,0,Avrenning til vann,Ingen jordarbeiding om høsten,Erosjonsklasse 1,med dråg, andre områder,180,DEKAR,36,6480,Avrenning
+2024,Innlandet,3442,999289193,3442,188,1,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Voksende kultur,90,DEKAR,484,43560,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3442,999289193,3442,188,1,0,Utslipp til luft,Nedlegging av husdyrgjødsel,Nedmolding innen 2 timer i åpen åker,90,DEKAR,156,14040,Miljøvennlig spredning av husdyrgjødsel
+2024,Innlandet,3442,999289193,3442,188,1,0,Utslipp til luft,Spredning av husdyrgjødsel med tilførselsslange,Bruk av tilførselsslange,65,DEKAR,640,41600,Miljøvennlig spredning av husdyrgjødsel
