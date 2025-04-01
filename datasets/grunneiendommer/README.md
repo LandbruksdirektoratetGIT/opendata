@@ -1,5 +1,5 @@
 # Datasett:     Landbruksdirektoratet - Grunneiendommer
- Sist oppdatert: 2025-01-07 20:20
+ Sist oppdatert: 2025-04-01 14:16
 
  Filer:
  - [sample.csv](sample.csv) — eksempeldata
