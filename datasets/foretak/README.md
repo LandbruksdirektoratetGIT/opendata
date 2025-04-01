@@ -1,5 +1,5 @@
 # Datasett:     Landbruksdirektoratet - Foretak
- Sist oppdatert: 2025-01-07 19:47
+ Sist oppdatert: 2025-04-01 14:16
 
  Filer:
  - [sample.csv](sample.csv) — eksempeldata
