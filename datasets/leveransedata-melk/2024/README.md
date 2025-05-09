@@ -1,5 +1,5 @@
-# Datasett: Landbruksdirektoratet - Leveransedata for melk 2023
- Sist oppdatert: 2024-04-04 12:56
+# Datasett: Landbruksdirektoratet - Leveransedata for melk 2024
+ Sist oppdatert: 2025-05-09 11:11
 
  Filer:
  - [sample.csv](sample.csv) — eksempeldata
