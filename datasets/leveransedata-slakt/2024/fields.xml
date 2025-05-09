@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<datasetFields>
+    <fields>
+        <field>
+            <name>Organisasjonsnr</name>
+            <shortName>orgnr</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        
+        <field>
+            <name>Navn</name>
+            <shortName>navn</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Kommunenr</name>
+            <shortName>komnr</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>And(kg)</name>
+            <shortName>and_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Geit (kg)</name>
+            <shortName>geit_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Kje (kg)</name>
+            <shortName>kje_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Gris (kg)</name>
+            <shortName>gris_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Purke (kg)</name>
+            <shortName>purke_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Råne (kg)</name>
+            <shortName>raane_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Gås (kg)</name>
+            <shortName>gaas_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Hane (kg)</name>
+            <shortName>hane_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Hest føll (kg)</name>
+            <shortName>hest_foll_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Høns (kg)</name>
+            <shortName>hons_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Kalkun (kg)</name>
+            <shortName>kalkun_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Kalv (kg)</name>
+            <shortName>kalv_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Kylling (kg)</name>
+            <shortName>kylling_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Lam (kg)</name>
+            <shortName>lam_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Lam villsau (kg)</name>
+            <shortName>lam_villsau_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Sau (kg)</name>
+            <shortName>sau_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Ungsau (kg)</name>
+            <shortName>ungsau_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Vær (kg)</name>
+            <shortName>vaer_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Ku (kg)</name>
+            <shortName>ku_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Kvige (kg)</name>
+            <shortName>kvige_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Okse (kg)</name>
+            <shortName>okse_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Ungokse kastrat (kg)</name>
+            <shortName>ungokse_kastrat_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Ungku (kg)</name>
+            <shortName>ungku_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+		<field>
+            <name>Ull (kg)</name>
+            <shortName>ull_kg</shortName>
+            <groupable>false</groupable>
+            <searchable>false</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+     </fields>
+</datasetFields>
