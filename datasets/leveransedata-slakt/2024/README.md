@@ -1,5 +1,5 @@
 # Datasett: Landbruksdirektoratet - Leveransedata for slakt 2024
- Sist oppdatert: 2025-05-09 11:21
+ Sist oppdatert: 2025-06-19 11:34
 
  Filer:
  - [sample.csv](sample.csv) — eksempeldata
