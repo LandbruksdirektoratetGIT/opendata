@@ -29,27 +29,7 @@
             <searchable>true</searchable>
             <indexPrimaryKey>false</indexPrimaryKey>
         </field>
-	<field>
-            <name>Antall produsenter konv</name>
-            <shortName>ant_konv</shortName>
-            <groupable>false</groupable>
-            <searchable>false</searchable>
-            <indexPrimaryKey>false</indexPrimaryKey>
-        </field>
-	<field>
-            <name>Antall produsenter øko</name>
-            <shortName>ant_øko</shortName>
-            <groupable>false</groupable>
-            <searchable>false</searchable>
-            <indexPrimaryKey>false</indexPrimaryKey>
-        </field>
-	<field>
-            <name>Antall produsenter totalt</name>
-            <shortName>ant_totalt</shortName>
-            <groupable>false</groupable>
-            <searchable>false</searchable>
-            <indexPrimaryKey>false</indexPrimaryKey>
-        </field>
+
         <field>
             <name>Mengde egg konv (kg)</name>
             <shortName>egg_konv_kg</shortName>
