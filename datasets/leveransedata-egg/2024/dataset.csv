@@ -1,4 +1,4 @@
-Leveranseår;Produsentorgnr.;Produsentnavn;Leveransemåned;Mengde egg konv (kg);Mengde egg øko (kg);Mengde egg totalt (kg)
+levår;orgnr.;navn;levmnd;egg_konv_kg;egg_øko_kg;egg_totalt_kg
 2024;921996144;A & A SALTE KYLLINGOPPDRETT AS;januar;2752;0;2752
 2024;921996144;A & A SALTE KYLLINGOPPDRETT AS;februar;1254;0;1254
 2024;921996144;A & A SALTE KYLLINGOPPDRETT AS;mars;5320;0;5320
@@ -5353,3 +5353,4 @@ Leveranseår;Produsentorgnr.;Produsentnavn;Leveransemåned;Mengde egg konv (kg);
 2024;928452743;ÅRSVOLLGÅRD AS;mai;18639;0;18639
 2024;928452743;ÅRSVOLLGÅRD AS;juni;15946;0;15946
 2024;928452743;ÅRSVOLLGÅRD AS;juli;15625;0;15625
+
