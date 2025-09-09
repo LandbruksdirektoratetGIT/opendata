@@ -19,5 +19,5 @@ Henta frå fields.csv
 | navn | Produsentnavn |  |
 | levmnd | Leveransemåned |  |
 | egg_konv_kg | Mengde egg konv (kg) |  |
-| egg__øko_kg | Mengde egg øko (kg) |  |
+| egg_øko_kg | Mengde egg øko (kg) |  |
 | egg_totalt_kg | Mengde egg totalt (kg) |  |
