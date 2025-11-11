@@ -1,5 +1,5 @@
 # Datasett: 	Produksjons- og avløsertilskudd til jordbruksforetak – søknadsår 2025 del 1
- Sist oppdatert: 2025-04-08 14:53
+ Sist oppdatert: 2025-11-11 10:54
 
  Filer:
  - [sample.csv](sample.csv) — eksempeldata
