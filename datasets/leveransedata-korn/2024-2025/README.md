@@ -1,5 +1,5 @@
 # Datasett: 	Leveranser til kornkjøper eller såvareforretning i landbruket i kornåret juli 2024 til juni 2025
- Sist oppdatert: 2025-05-09 11:15
+ Sist oppdatert: 2025-11-24 10:13
 
  Filer:
  - [sample.csv](sample.csv) — eksempeldata
