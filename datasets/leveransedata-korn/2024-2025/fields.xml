@@ -18,6 +18,54 @@
       <content></content>
     </field>
     <field>
+      <name>Hvete mat kg</name>
+      <shortName>hvete_mat_kg</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Hvete fôr kg</name>
+      <shortName>hvete_for_kg</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Hvete såkorn kg</name>
+      <shortName>hvete_sakorn_kg</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Rug mat kg</name>
+      <shortName>rug_mat_kg</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Rug fôr kg</name>
+      <shortName>rug_for_kg</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Rug såkorn kg</name>
+      <shortName>rug_sakorn_kg</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
       <name>Bygg fôr kg</name>
       <shortName>bygg_for_kg</shortName>
       <groupable>false</groupable>
@@ -28,22 +76,6 @@
     <field>
       <name>Bygg såkorn kg</name>
       <shortName>bygg_sakorn_kg</shortName>
-      <groupable>false</groupable>
-      <searchable>false</searchable>
-      <indexPrimaryKey>false</indexPrimaryKey>
-      <content></content>
-    </field>
-    <field>
-      <name>Erter fôr kg</name>
-      <shortName>erter_for_kg</shortName>
-      <groupable>false</groupable>
-      <searchable>false</searchable>
-      <indexPrimaryKey>false</indexPrimaryKey>
-      <content></content>
-    </field>
-    <field>
-      <name>Erter såkorn kg</name>
-      <shortName>erter_sakorn_kg</shortName>
       <groupable>false</groupable>
       <searchable>false</searchable>
       <indexPrimaryKey>false</indexPrimaryKey>
@@ -66,24 +98,32 @@
       <content></content>
     </field>
     <field>
-      <name>Hvete fôr kg</name>
-      <shortName>hvete_for_kg</shortName>
+      <name>Rughvete fôr kg</name>
+      <shortName>rughvete_for_kg</shortName>
       <groupable>false</groupable>
       <searchable>false</searchable>
       <indexPrimaryKey>false</indexPrimaryKey>
       <content></content>
     </field>
     <field>
-      <name>Hvete mat kg</name>
-      <shortName>hvete_mat_kg</shortName>
+      <name>Rughvete såkorn kg</name>
+      <shortName>rughvete_sakorn_kg</shortName>
       <groupable>false</groupable>
       <searchable>false</searchable>
       <indexPrimaryKey>false</indexPrimaryKey>
       <content></content>
     </field>
     <field>
-      <name>Hvete såkorn kg</name>
-      <shortName>hvete_sakorn_kg</shortName>
+      <name>Erter fôr kg</name>
+      <shortName>erter_for_kg</shortName>
+      <groupable>false</groupable>
+      <searchable>false</searchable>
+      <indexPrimaryKey>false</indexPrimaryKey>
+      <content></content>
+    </field>
+    <field>
+      <name>Erter såkorn kg</name>
+      <shortName>erter_sakorn_kg</shortName>
       <groupable>false</groupable>
       <searchable>false</searchable>
       <indexPrimaryKey>false</indexPrimaryKey>
@@ -100,46 +140,6 @@
     <field>
       <name>Oljefrø såkorn kg</name>
       <shortName>oljefro_sakorn_kg</shortName>
-      <groupable>false</groupable>
-      <searchable>false</searchable>
-      <indexPrimaryKey>false</indexPrimaryKey>
-      <content></content>
-    </field>
-    <field>
-      <name>Rug fôr kg</name>
-      <shortName>rug_for_kg</shortName>
-      <groupable>false</groupable>
-      <searchable>false</searchable>
-      <indexPrimaryKey>false</indexPrimaryKey>
-      <content></content>
-    </field>
-    <field>
-      <name>Rug mat kg</name>
-      <shortName>rug_mat_kg</shortName>
-      <groupable>false</groupable>
-      <searchable>false</searchable>
-      <indexPrimaryKey>false</indexPrimaryKey>
-      <content></content>
-    </field>
-    <field>
-      <name>Rug såkorn kg</name>
-      <shortName>rug_sakorn_kg</shortName>
-      <groupable>false</groupable>
-      <searchable>false</searchable>
-      <indexPrimaryKey>false</indexPrimaryKey>
-      <content></content>
-    </field>
-    <field>
-      <name>Rughvete fôr kg</name>
-      <shortName>rughvete_for_kg</shortName>
-      <groupable>false</groupable>
-      <searchable>false</searchable>
-      <indexPrimaryKey>false</indexPrimaryKey>
-      <content></content>
-    </field>
-    <field>
-      <name>Rughvete såkorn kg</name>
-      <shortName>rughvete_sakorn_kg</shortName>
       <groupable>false</groupable>
       <searchable>false</searchable>
       <indexPrimaryKey>false</indexPrimaryKey>
