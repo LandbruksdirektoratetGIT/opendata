@@ -1,16 +1,13 @@
 shortname,name,content
-komnr,Kommunenr,
-gardsnr,Gardsnummer,
-bruksnr,Bruksnr,
-festenr,Festenr,
+komnr,Kommunenummer,
+gaardsnr,Gaardsnummer,
+bruksnr,Bruksnummer,
+festenr,Festenummer,
 bruksnavn,Bruksnavn,
-jordbruksareal,Jordbruksareal,
-skogareal,Skogareal,
-annet_areal,Annet areal,
-fulldyrket,Fulldyrket,
-overflatedyrket,Overflatedyrket,
-innmarksbeite,Innmarksbeite,
-l_komnr,Kommunenr til tilknyttet landbrukseiendom,Kommunenr til tilknyttet landbrukseiendom
-l_gardsnr,Gårdsnr til tilknyttet landbrukseiendom,Gårdsnr til tilknyttet landbrukseiendom
-l_bruksnr,Bruksnr til tilknyttet landbrukseiendom,Bruksnr til tilknyttet landbrukseiendom
-l_festenr,Festenr til tilknyttet landbrukseiendom,Festenr til tilknyttet landbrukseiendom
+jordbruksareal,Gjeldende_jordbruksareal,
+skogareal,Gjeldende_produktiv_skog,
+annet_areal,Gjeldende_annet_areal,
+fulldyrket,Gjeldende_fulldyrket,
+overflatedyrket,Gjeldende_overflatedyrket,
+innmarksbeite,Gjeldende_innmarksbeite,
+lbe_id,lbe_id,Id til tilknyttet landbrukseiendom
