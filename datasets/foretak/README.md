@@ -23,3 +23,4 @@ Henta frå fields.csv
 | koordsys | Koordsys |  |
 | nord | Nord |  |
 | ost | Ost |  |
+| orgnr1 | Orgnr1 |  |
