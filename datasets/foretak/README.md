@@ -14,8 +14,12 @@ Henta frå fields.csv
 
 | shortname | name | content |
 | --- | --- | --- |
-| orgnr | Organisasjonsnr |  |
-| komnr | Kommunenr |  |
-| gardsnr | Gardsnummer |  |
+| orgnr | Orgnr |  |
+| komnr | Komnr |  |
+| gardsnr | Gardsnr |  |
 | bruksnr | Bruksnr |  |
 | festenr | Festenr |  |
+| id | Id |  |
+| koordsys | Koordsys |  |
+| nord | Nord |  |
+| ost | Ost |  |
