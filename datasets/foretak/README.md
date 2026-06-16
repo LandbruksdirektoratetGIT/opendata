@@ -19,8 +19,8 @@ Henta frå fields.csv
 | gardsnr | Gardsnr |  |
 | bruksnr | Bruksnr |  |
 | festenr | Festenr |  |
-| id | Id |  |
+| id | Id |  | Unik id til landbrukseiendom der driftssenteret ligger (refererer til Id i datasett for landbrukseiendommer)
 | koordsys | Koordsys |  |
 | nord | Nord |  |
 | ost | Ost |  |
-| orgnr1 | Orgnr1 |  |
+| orgnr1 | Orgnr1 |  | Orgnr til tilhørende underenhet
