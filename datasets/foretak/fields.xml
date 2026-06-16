@@ -2,21 +2,21 @@
 <datasetFields>
     <fields>
         <field>
-            <name>Organisasjonsnr</name>
+            <name>Orgnr</name>
             <shortName>orgnr</shortName>
             <groupable>false</groupable>
             <searchable>true</searchable>
             <indexPrimaryKey>false</indexPrimaryKey>
         </field>
         <field>
-            <name>Kommunenr</name>
+            <name>Komnr</name>
             <shortName>komnr</shortName>
             <groupable>true</groupable>
             <searchable>true</searchable>
             <indexPrimaryKey>false</indexPrimaryKey>
         </field>
         <field>
-            <name>Gardsnummer</name>
+            <name>Gardsnr</name>
             <shortName>gardsnr</shortName>
             <groupable>true</groupable>
             <searchable>true</searchable>
@@ -32,6 +32,41 @@
         <field>
             <name>Festenr</name>
             <shortName>festenr</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Id</name>
+            <shortName>id</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>true</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Koordsys</name>
+            <shortName>koordsys</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Nord</name>
+            <shortName>nord</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Ost</name>
+            <shortName>ost</shortName>
+            <groupable>false</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>false</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Orgnr1</name>
+            <shortName>orgnr1</shortName>
             <groupable>false</groupable>
             <searchable>true</searchable>
             <indexPrimaryKey>false</indexPrimaryKey>
