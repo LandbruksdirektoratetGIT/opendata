@@ -2,14 +2,21 @@
 <datasetFields>
     <fields>
         <field>
-            <name>Kommunenr</name>
+            <name>Id</name>
+            <shortName>id</shortName>
+            <groupable>true</groupable>
+            <searchable>true</searchable>
+            <indexPrimaryKey>true</indexPrimaryKey>
+        </field>
+        <field>
+            <name>Komnr</name>
             <shortName>komnr</shortName>
             <groupable>true</groupable>
             <searchable>true</searchable>
             <indexPrimaryKey>false</indexPrimaryKey>
         </field>
         <field>
-            <name>Gardsnummer</name>
+            <name>Gardsnr</name>
             <shortName>gardsnr</shortName>
             <groupable>true</groupable>
             <searchable>true</searchable>
@@ -44,7 +51,7 @@
             <indexPrimaryKey>false</indexPrimaryKey>
         </field>
         <field>
-            <name>annetareal</name>
+            <name>Annetareal</name>
             <shortName>annetareal</shortName>
             <groupable>false</groupable>
             <searchable>false</searchable>
@@ -74,28 +81,6 @@
         <field>
             <name>Innmarksbeite</name>
             <shortName>innmarksbeite</shortName>
-            <groupable>false</groupable>
-            <searchable>false</searchable>
-            <indexPrimaryKey>false</indexPrimaryKey>
-        </field>
-        <field>
-            <name>Koordsys</name>
-            <shortName>koordsys</shortName>
-            <groupable>false</groupable>
-            <searchable>false</searchable>
-            <indexPrimaryKey>false</indexPrimaryKey>
-            <content>Koordinatsystem</content>
-        </field>
-        <field>
-            <name>Nord</name>
-            <shortName>nord</shortName>
-            <groupable>false</groupable>
-            <searchable>false</searchable>
-            <indexPrimaryKey>false</indexPrimaryKey>
-        </field>
-        <field>
-            <name>Øst</name>
-            <shortName>ost</shortName>
             <groupable>false</groupable>
             <searchable>false</searchable>
             <indexPrimaryKey>false</indexPrimaryKey>
