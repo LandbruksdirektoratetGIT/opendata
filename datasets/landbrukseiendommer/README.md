@@ -14,17 +14,16 @@ Henta frå fields.csv
 
 | shortname | name | content |
 | --- | --- | --- |
-| komnr | Kommunenr |  |
-| gardsnr | Gardsnummer |  |
+| id | Id |  |
+| komnr | Komnr |  |
+| gardsnr | Gardsnr |  |
 | bruksnr | Bruksnr |  |
 | festenr | Festenr |  |
 | bruksnavn | Bruksnavn |  |
 | jordbruksareal | Jordbruksareal |  |
-| annetareal | annetareal |  |
+| annetareal | Annetareal |  |
 | skogareal | Skogareal |  |
 | fulldyrket | Fulldyrket |  |
 | overflatedyrket | Overflatedyrket |  |
 | innmarksbeite | Innmarksbeite |  |
-| koordsys | Koordsys | Koordinatsystem |
-| nord | Nord |  |
-| ost | Øst |  |
+
