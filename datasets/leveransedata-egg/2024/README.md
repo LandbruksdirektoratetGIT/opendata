@@ -1,4 +1,4 @@
-# Datasett:     Landbruksdirektoratet - Landbrukseiendommer
+# Datasett:     Landbruksdirektoratet - Leveransedata-egg
 Sist oppdatert: 2025-05-26 14:00
 
  Filer:
