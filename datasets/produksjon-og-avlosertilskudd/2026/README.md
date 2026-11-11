@@ -136,10 +136,10 @@ Henta frå fields.csv
 |p411|P411|Melkekyr og ammekyr på beite i minst 12/16 uker|
 |p420|P420|Øvrige storfe på utmarksbeite|
 |p422|P422|Øvrige storfe på beite i minst 12/16 uker|
-|p431\_sanket_utmarksbeite|p431 sanket utmarksbeite|"Sauer, født i fjor eller tidligere, sanket fra utmarksbeite"|
-|p431\_sluppet_utmarksbeite|p431 sluppet utmarksbeite|"Sauer, født i fjor eller tidligere, sluppet på utmarksbeite"|
-|p432\_sanket_utmarksbeite|p432 sanket utmarksbeite|"Lam, født i år, sanket fra utmarksbeite"|
-|p432\_sluppet_utmarksbeite|p432 sluppet utmarksbeite|"Lam, født i år, sluppet på utmarksbeite"|
+|p431\_sanket_utmarksbeite|P431 sanket utmarksbeite|"Sauer, født i fjor eller tidligere, sanket fra utmarksbeite"|
+|p431\_sluppet_utmarksbeite|P431 sluppet utmarksbeite|"Sauer, født i fjor eller tidligere, sluppet på utmarksbeite"|
+|p432\_sanket_utmarksbeite|P432 sanket utmarksbeite|"Lam, født i år, sanket fra utmarksbeite"|
+|p432\_sluppet_utmarksbeite|P432 sluppet utmarksbeite|"Lam, født i år, sluppet på utmarksbeite"|
 |p440|P440|"Geiter, voksne og kje, på utmarksbeite"|
 |p445|P445|"Geiter, voksne og kje, på beite i minst 12/16 uker"|
 |p450|P450|Hester på utmarksbeite|
