@@ -1,4 +1,4 @@
-# Datasett: 	Produksjons- og avløsertilskudd til jordbruksforetak – søknadsomgang 2026
+# Datasett: 	Produksjons- og avløsertilskudd til jordbruksforetak – søknadsår 2026
 
 Sist oppdatert: 2026-04-09 10:30
 
